@@ -1,0 +1,307 @@
+match_id,Gameweek,Date,Time,Result,Home team,Away team,Day,HomeGoals,AwayGoals,Status,Season
+2021000,1,2021-10-25,3:00 PM,3:0,Bank El Ahly,Talaea El Gaish,Mon,3,0,HomeWin,2021-2022
+2021001,1,2021-10-25,5:30 PM,4:4,Smouha,Ittihad Alex,Mon,4,4,Tie,2021-2022
+2021002,1,2021-10-25,8:00 PM,1:0,Future FC,Pharco FC,Mon,1,0,HomeWin,2021-2022
+2021003,1,2021-10-26,3:00 PM,1:0,El Mokawloon,Eastern Company,Tue,1,0,HomeWin,2021-2022
+2021004,1,2021-10-26,5:30 PM,1:1,El Gouna,Cleopatra FC,Tue,1,1,Tie,2021-2022
+2021005,1,2021-10-26,8:00 PM,2:0,Zamalek,Enppi SC,Tue,2,0,HomeWin,2021-2022
+2021006,1,2021-10-27,5:30 PM,2:1,Pyramids FC,El Makasa,Wed,2,1,HomeWin,2021-2022
+2021007,1,2021-10-27,8:00 PM,0:4,Ismaily,Ahly SC,Wed,0,4,AwayWin,2021-2022
+2021008,1,2021-10-28,5:30 PM,1:1,El Mahalla,El Masry,Thu,1,1,Tie,2021-2022
+2021009,2,2021-10-30,5:30 PM,3:2,Ittihad Alex,Future FC,Sat,3,2,HomeWin,2021-2022
+2021010,2,2021-10-30,8:00 PM,3:2,Enppi SC,El Mokawloon,Sat,3,2,HomeWin,2021-2022
+2021011,2,2021-10-31,2:00 PM,2:1,Cleopatra FC,Ismaily,Sun,2,1,HomeWin,2021-2022
+2021012,2,2021-10-31,,2:0,El Makasa,El Gouna,Sun,2,0,HomeWin,2021-2022
+2021013,2,2021-10-31,4:30 PM,0:2,Talaea El Gaish,Zamalek,Sun,0,2,AwayWin,2021-2022
+2021014,2,2021-10-31,,1:2,Pharco FC,Pyramids FC,Sun,1,2,AwayWin,2021-2022
+2021015,2,2021-10-31,7:00 PM,1:0,Ahly SC,Bank El Ahly,Sun,1,0,HomeWin,2021-2022
+2021016,2,2021-11-01,4:30 PM,0:0,El Masry,Smouha,Mon,0,0,Tie,2021-2022
+2021017,2,2021-11-01,7:00 PM,2:3,Eastern Company,El Mahalla,Mon,2,3,AwayWin,2021-2022
+2021018,3,2021-11-04,2:00 PM,1:0,Bank El Ahly,Ismaily,Thu,1,0,HomeWin,2021-2022
+2021019,3,2021-11-04,,0:0,El Makasa,Cleopatra FC,Thu,0,0,Tie,2021-2022
+2021020,3,2021-11-04,4:30 PM,1:0,El Gouna,Pharco FC,Thu,1,0,HomeWin,2021-2022
+2021021,3,2021-11-04,,1:1,El Mokawloon,Talaea El Gaish,Thu,1,1,Tie,2021-2022
+2021022,3,2021-11-04,7:00 PM,3:0,Pyramids FC,Ittihad Alex,Thu,3,0,HomeWin,2021-2022
+2021023,3,2021-11-05,2:00 PM,3:0,Smouha,Eastern Company,Fri,3,0,HomeWin,2021-2022
+2021024,3,2021-11-05,4:30 PM,3:0,El Mahalla,Enppi SC,Fri,3,0,HomeWin,2021-2022
+2021025,3,2021-11-05,,1:1,Future FC,El Masry,Fri,1,1,Tie,2021-2022
+2021026,3,2021-11-05,7:00 PM,3:5,Zamalek,Ahly SC,Fri,3,5,AwayWin,2021-2022
+2021027,4,2021-11-18,2:00 PM,2:0,Pharco FC,El Makasa,Thu,2,0,HomeWin,2021-2022
+2021028,4,2021-11-18,4:30 PM,1:4,Eastern Company,Future FC,Thu,1,4,AwayWin,2021-2022
+2021029,4,2021-11-18,7:00 PM,1:0,Cleopatra FC,Bank El Ahly,Thu,1,0,HomeWin,2021-2022
+2021030,4,2021-11-18,,1:0,Ittihad Alex,El Gouna,Thu,1,0,HomeWin,2021-2022
+2021031,4,2021-11-19,2:00 PM,0:0,Talaea El Gaish,El Mahalla,Fri,0,0,Tie,2021-2022
+2021032,4,2021-11-19,,2:2,El Masry,Pyramids FC,Fri,2,2,Tie,2021-2022
+2021033,4,2021-11-19,4:30 PM,0:2,Ismaily,Zamalek,Fri,0,2,AwayWin,2021-2022
+2021034,4,2021-11-19,,1:1,Enppi SC,Smouha,Fri,1,1,Tie,2021-2022
+2021035,4,2021-11-19,7:00 PM,1:0,Ahly SC,El Mokawloon,Fri,1,0,HomeWin,2021-2022
+2021036,5,2021-11-21,4:30 PM,1:0,Pharco FC,Cleopatra FC,Sun,1,0,HomeWin,2021-2022
+2021037,5,2021-11-21,7:00 PM,0:0,El Makasa,Ittihad Alex,Sun,0,0,Tie,2021-2022
+2021038,5,2021-11-22,2:00 PM,3:0,Pyramids FC,Eastern Company,Mon,3,0,HomeWin,2021-2022
+2021039,5,2021-11-22,4:30 PM,2:3,El Mahalla,Ahly SC,Mon,2,3,AwayWin,2021-2022
+2021040,5,2021-11-22,7:00 PM,1:1,Zamalek,Bank El Ahly,Mon,1,1,Tie,2021-2022
+2021041,5,2021-11-22,,0:3,El Gouna,El Masry,Mon,0,3,AwayWin,2021-2022
+2021042,5,2021-11-23,4:30 PM,1:1,El Mokawloon,Ismaily,Tue,1,1,Tie,2021-2022
+2021043,5,2021-11-23,7:00 PM,1:2,Future FC,Enppi SC,Tue,1,2,AwayWin,2021-2022
+2021044,5,2021-12-25,4:30 PM,1:0,Smouha,Talaea El Gaish,Sat,1,0,HomeWin,2021-2022
+2021045,6,2021-11-25,2:00 PM,1:2,Ittihad Alex,Pharco FC,Thu,1,2,AwayWin,2021-2022
+2021046,6,2021-11-25,3:00 PM,0:1,Cleopatra FC,Zamalek,Thu,0,1,AwayWin,2021-2022
+2021047,6,2021-11-25,,4:1,Ahly SC,Smouha,Thu,4,1,HomeWin,2021-2022
+2021048,6,2021-11-26,2:00 PM,2:1,Bank El Ahly,El Mokawloon,Fri,2,1,HomeWin,2021-2022
+2021049,6,2021-11-26,4:30 PM,0:0,Ismaily,El Mahalla,Fri,0,0,Tie,2021-2022
+2021050,6,2021-11-26,7:00 PM,1:0,Talaea El Gaish,Future FC,Fri,1,0,HomeWin,2021-2022
+2021051,6,2021-11-27,4:30 PM,0:2,Eastern Company,El Gouna,Sat,0,2,AwayWin,2021-2022
+2021052,6,2021-12-13,4:30 PM,3:2,El Masry,El Makasa,Mon,3,2,HomeWin,2021-2022
+2021053,6,2021-12-25,2:00 PM,1:1,Enppi SC,Pyramids FC,Sat,1,1,Tie,2021-2022
+2021054,7,2021-12-20,2:00 PM,0:1,Pharco FC,El Masry,Mon,0,1,AwayWin,2021-2022
+2021055,7,2021-12-20,4:30 PM,1:1,El Mahalla,Bank El Ahly,Mon,1,1,Tie,2021-2022
+2021056,7,2021-12-20,,1:1,El Gouna,Enppi SC,Mon,1,1,Tie,2021-2022
+2021057,7,2021-12-20,7:00 PM,0:0,El Makasa,Eastern Company,Mon,0,0,Tie,2021-2022
+2021058,7,2021-12-20,,4:4,Ittihad Alex,Cleopatra FC,Mon,4,4,Tie,2021-2022
+2021059,7,2021-12-21,2:00 PM,2:1,Smouha,Ismaily,Tue,2,1,HomeWin,2021-2022
+2021060,7,2021-12-21,4:30 PM,3:0,Pyramids FC,Talaea El Gaish,Tue,3,0,HomeWin,2021-2022
+2021061,7,2021-12-21,7:00 PM,1:2,El Mokawloon,Zamalek,Tue,1,2,AwayWin,2021-2022
+2021062,7,2021-12-26,7:00 PM,1:1,Future FC,Ahly SC,Sun,1,1,Tie,2021-2022
+2021063,8,2021-12-24,2:00 PM,2:2,Cleopatra FC,El Mokawloon,Fri,2,2,Tie,2021-2022
+2021064,8,2021-12-24,4:30 PM,0:3,Eastern Company,Pharco FC,Fri,0,3,AwayWin,2021-2022
+2021065,8,2021-12-24,7:00 PM,0:1,El Masry,Ittihad Alex,Fri,0,1,AwayWin,2021-2022
+2021066,8,2021-12-25,7:00 PM,4:0,Zamalek,El Mahalla,Sat,4,0,HomeWin,2021-2022
+2021067,8,2022-02-09,4:30 PM,0:0,Enppi SC,El Makasa,Wed,0,0,Tie,2021-2022
+2021068,8,2022-02-09,7:00 PM,0:1,Talaea El Gaish,El Gouna,Wed,0,1,AwayWin,2021-2022
+2021069,8,2022-02-10,4:30 PM,1:2,Bank El Ahly,Smouha,Thu,1,2,AwayWin,2021-2022
+2021070,8,2022-02-10,7:00 PM,0:0,Ismaily,Future FC,Thu,0,0,Tie,2021-2022
+2021071,8,2022-03-08,7:00 PM,3:0,Ahly SC,Pyramids FC,Tue,3,0,HomeWin,2021-2022
+2021072,9,2022-02-14,2:00 PM,1:1,Ittihad Alex,Eastern Company,Mon,1,1,Tie,2021-2022
+2021073,9,2022-02-14,4:30 PM,0:0,El Makasa,Talaea El Gaish,Mon,0,0,Tie,2021-2022
+2021074,9,2022-02-15,2:00 PM,1:1,El Mahalla,El Mokawloon,Tue,1,1,Tie,2021-2022
+2021075,9,2022-02-15,4:30 PM,2:0,Smouha,Zamalek,Tue,2,0,HomeWin,2021-2022
+2021076,9,2022-02-16,2:00 PM,1:0,Pharco FC,Enppi SC,Wed,1,0,HomeWin,2021-2022
+2021077,9,2022-02-16,4:30 PM,1:0,Pyramids FC,Ismaily,Wed,1,0,HomeWin,2021-2022
+2021078,9,2022-02-16,7:00 PM,2:0,Future FC,Bank El Ahly,Wed,2,0,HomeWin,2021-2022
+2021079,9,2022-02-17,4:30 PM,1:1,El Masry,Cleopatra FC,Thu,1,1,Tie,2021-2022
+2021080,9,2022-07-05,9:00 PM,0:0,El Gouna,Ahly SC,Tue,0,0,Tie,2021-2022
+2021081,10,2022-02-21,4:30 PM,0:0,El Mokawloon,Smouha,Mon,0,0,Tie,2021-2022
+2021082,10,2022-02-21,7:00 PM,1:0,Talaea El Gaish,Pharco FC,Mon,1,0,HomeWin,2021-2022
+2021083,10,2022-02-22,2:00 PM,0:0,Cleopatra FC,El Mahalla,Tue,0,0,Tie,2021-2022
+2021084,10,2022-02-22,4:30 PM,1:0,Enppi SC,Ittihad Alex,Tue,1,0,HomeWin,2021-2022
+2021085,10,2022-02-22,7:00 PM,4:0,Ahly SC,El Makasa,Tue,4,0,HomeWin,2021-2022
+2021086,10,2022-02-23,2:00 PM,2:2,Eastern Company,El Masry,Wed,2,2,Tie,2021-2022
+2021087,10,2022-02-23,4:30 PM,0:1,Ismaily,El Gouna,Wed,0,1,AwayWin,2021-2022
+2021088,10,2022-02-24,4:30 PM,0:1,Bank El Ahly,Pyramids FC,Thu,0,1,AwayWin,2021-2022
+2021089,10,2022-03-02,7:00 PM,3:2,Zamalek,Future FC,Wed,3,2,HomeWin,2021-2022
+2021090,11,2022-02-25,4:30 PM,1:0,Future FC,El Mokawloon,Fri,1,0,HomeWin,2021-2022
+2021091,11,2022-02-27,4:30 PM,2:0,Smouha,El Mahalla,Sun,2,0,HomeWin,2021-2022
+2021092,11,2022-02-28,2:00 PM,1:0,Eastern Company,Cleopatra FC,Mon,1,0,HomeWin,2021-2022
+2021093,11,2022-02-28,4:30 PM,1:1,Ittihad Alex,Talaea El Gaish,Mon,1,1,Tie,2021-2022
+2021094,11,2022-03-01,2:00 PM,1:2,El Gouna,Bank El Ahly,Tue,1,2,AwayWin,2021-2022
+2021095,11,2022-03-01,4:30 PM,2:2,El Makasa,Ismaily,Tue,2,2,Tie,2021-2022
+2021096,11,2022-03-01,7:00 PM,1:4,Pharco FC,Ahly SC,Tue,1,4,AwayWin,2021-2022
+2021097,11,2022-03-03,2:00 PM,2:2,El Masry,Enppi SC,Thu,2,2,Tie,2021-2022
+2021098,11,2022-04-06,9:30 PM,2:3,Pyramids FC,Zamalek,Wed,2,3,AwayWin,2021-2022
+2021099,12,2022-03-04,4:30 PM,0:2,El Mokawloon,Pyramids FC,Fri,0,2,AwayWin,2021-2022
+2021100,12,2022-03-07,2:00 PM,1:0,Bank El Ahly,El Makasa,Mon,1,0,HomeWin,2021-2022
+2021101,12,2022-03-07,4:30 PM,0:0,Ismaily,Pharco FC,Mon,0,0,Tie,2021-2022
+2021102,12,2022-03-07,7:00 PM,2:1,Zamalek,El Gouna,Mon,2,1,HomeWin,2021-2022
+2021103,12,2022-03-08,2:00 PM,1:2,Enppi SC,Eastern Company,Tue,1,2,AwayWin,2021-2022
+2021104,12,2022-03-08,4:30 PM,1:1,Cleopatra FC,Smouha,Tue,1,1,Tie,2021-2022
+2021105,12,2022-03-09,2:00 PM,0:0,El Mahalla,Future FC,Wed,0,0,Tie,2021-2022
+2021106,12,2022-03-09,4:30 PM,1:0,Talaea El Gaish,El Masry,Wed,1,0,HomeWin,2021-2022
+2021107,12,2022-04-06,9:30 PM,1:0,Ahly SC,Ittihad Alex,Wed,1,0,HomeWin,2021-2022
+2021108,13,2022-03-15,7:00 PM,4:0,Future FC,Smouha,Tue,4,0,HomeWin,2021-2022
+2021109,13,2022-03-16,2:00 PM,1:2,El Gouna,El Mokawloon,Wed,1,2,AwayWin,2021-2022
+2021110,13,2022-03-16,4:30 PM,1:2,Ittihad Alex,Ismaily,Wed,1,2,AwayWin,2021-2022
+2021111,13,2022-03-16,7:00 PM,0:0,Enppi SC,Cleopatra FC,Wed,0,0,Tie,2021-2022
+2021112,13,2022-03-17,2:00 PM,2:2,Pharco FC,Bank El Ahly,Thu,2,2,Tie,2021-2022
+2021113,13,2022-03-17,4:30 PM,0:0,Eastern Company,Talaea El Gaish,Thu,0,0,Tie,2021-2022
+2021114,13,2022-04-09,9:30 PM,1:0,Pyramids FC,El Mahalla,Sat,1,0,HomeWin,2021-2022
+2021115,13,2022-04-09,,1:0,El Masry,Ahly SC,Sat,1,0,HomeWin,2021-2022
+2021116,13,2022-04-09,,0:1,El Makasa,Zamalek,Sat,0,1,AwayWin,2021-2022
+2021117,14,2022-04-12,9:30 PM,0:0,Zamalek,Pharco FC,Tue,0,0,Tie,2021-2022
+2021118,14,2022-04-14,9:30 PM,1:1,Talaea El Gaish,Enppi SC,Thu,1,1,Tie,2021-2022
+2021119,14,2022-04-14,,1:1,El Mokawloon,El Makasa,Thu,1,1,Tie,2021-2022
+2021120,14,2022-04-14,,1:1,Bank El Ahly,Ittihad Alex,Thu,1,1,Tie,2021-2022
+2021121,14,2022-04-15,9:30 PM,0:3,Cleopatra FC,Future FC,Fri,0,3,AwayWin,2021-2022
+2021122,14,2022-04-15,,2:1,El Mahalla,El Gouna,Fri,2,1,HomeWin,2021-2022
+2021123,14,2022-05-06,6:30 PM,3:2,Ismaily,El Masry,Fri,3,2,HomeWin,2021-2022
+2021124,14,2022-05-06,9:00 PM,0:2,Smouha,Pyramids FC,Fri,0,2,AwayWin,2021-2022
+2021125,14,2022-06-15,9:00 PM,4:1,Ahly SC,Eastern Company,Wed,4,1,HomeWin,2021-2022
+2021126,15,2022-04-18,9:30 PM,0:2,Eastern Company,Ismaily,Mon,0,2,AwayWin,2021-2022
+2021127,15,2022-04-18,,1:0,Pharco FC,El Mokawloon,Mon,1,0,HomeWin,2021-2022
+2021128,15,2022-04-18,,0:1,El Makasa,El Mahalla,Mon,0,1,AwayWin,2021-2022
+2021129,15,2022-04-19,9:30 PM,0:2,Ittihad Alex,Zamalek,Tue,0,2,AwayWin,2021-2022
+2021130,15,2022-04-19,,1:0,Talaea El Gaish,Cleopatra FC,Tue,1,0,HomeWin,2021-2022
+2021131,15,2022-04-20,9:30 PM,1:0,El Gouna,Smouha,Wed,1,0,HomeWin,2021-2022
+2021132,15,2022-05-21,9:00 PM,1:2,Enppi SC,Ahly SC,Sat,1,2,AwayWin,2021-2022
+2021133,15,2022-05-26,6:30 PM,1:3,El Masry,Bank El Ahly,Thu,1,3,AwayWin,2021-2022
+2021134,15,2022-05-26,9:00 PM,0:0,Pyramids FC,Future FC,Thu,0,0,Tie,2021-2022
+2021135,16,2022-04-25,9:30 PM,3:2,Future FC,El Gouna,Mon,3,2,HomeWin,2021-2022
+2021136,16,2022-04-25,,1:0,Smouha,El Makasa,Mon,1,0,HomeWin,2021-2022
+2021137,16,2022-04-25,,1:1,El Mahalla,Pharco FC,Mon,1,1,Tie,2021-2022
+2021138,16,2022-04-26,9:30 PM,1:1,El Mokawloon,Ittihad Alex,Tue,1,1,Tie,2021-2022
+2021139,16,2022-04-26,,2:1,Bank El Ahly,Eastern Company,Tue,2,1,HomeWin,2021-2022
+2021140,16,2022-04-26,,0:2,Ismaily,Enppi SC,Tue,0,2,AwayWin,2021-2022
+2021141,16,2022-04-27,9:30 PM,0:0,Ahly SC,Talaea El Gaish,Wed,0,0,Tie,2021-2022
+2021142,16,2022-04-27,,0:1,Pyramids FC,Cleopatra FC,Wed,0,1,AwayWin,2021-2022
+2021143,16,2022-04-28,9:30 PM,2:1,Zamalek,El Masry,Thu,2,1,HomeWin,2021-2022
+2021144,17,2022-04-29,9:30 PM,0:3,El Makasa,Future FC,Fri,0,3,AwayWin,2021-2022
+2021145,17,2022-04-29,,0:0,Pharco FC,Smouha,Fri,0,0,Tie,2021-2022
+2021146,17,2022-04-29,,2:2,Enppi SC,Bank El Ahly,Fri,2,2,Tie,2021-2022
+2021147,17,2022-04-30,9:30 PM,3:0,Ittihad Alex,El Mahalla,Sat,3,0,HomeWin,2021-2022
+2021148,17,2022-04-30,,1:1,Cleopatra FC,Ahly SC,Sat,1,1,Tie,2021-2022
+2021149,17,2022-04-30,,1:0,Talaea El Gaish,Ismaily,Sat,1,0,HomeWin,2021-2022
+2021150,17,2022-05-01,9:30 PM,1:2,Eastern Company,Zamalek,Sun,1,2,AwayWin,2021-2022
+2021151,17,2022-05-01,,0:2,El Masry,El Mokawloon,Sun,0,2,AwayWin,2021-2022
+2021152,17,2022-05-01,,1:2,El Gouna,Pyramids FC,Sun,1,2,AwayWin,2021-2022
+2021153,18,2022-05-09,4:00 PM,1:1,Eastern Company,El Mokawloon,Mon,1,1,Tie,2021-2022
+2021154,18,2022-05-09,6:30 PM,1:0,Pharco FC,Future FC,Mon,1,0,HomeWin,2021-2022
+2021155,18,2022-05-09,9:00 PM,1:1,Talaea El Gaish,Bank El Ahly,Mon,1,1,Tie,2021-2022
+2021156,18,2022-05-10,6:30 PM,3:2,Cleopatra FC,El Gouna,Tue,3,2,HomeWin,2021-2022
+2021157,18,2022-05-10,9:00 PM,0:2,Zamalek,Enppi SC,Tue,0,2,AwayWin,2021-2022
+2021158,18,2022-05-11,4:00 PM,1:1,El Masry,El Mahalla,Wed,1,1,Tie,2021-2022
+2021159,18,2022-05-11,6:30 PM,2:5,Ittihad Alex,Smouha,Wed,2,5,AwayWin,2021-2022
+2021160,18,2022-05-11,9:00 PM,0:2,El Makasa,Pyramids FC,Wed,0,2,AwayWin,2021-2022
+2021161,18,2022-08-21,9:00 PM,0:0,Ahly SC,Ismaily,Sun,0,0,Tie,2021-2022
+2021162,19,2022-05-15,4:00 PM,2:0,Ismaily,Cleopatra FC,Sun,2,0,HomeWin,2021-2022
+2021163,19,2022-05-15,6:30 PM,2:2,El Mokawloon,Enppi SC,Sun,2,2,Tie,2021-2022
+2021164,19,2022-05-15,9:00 PM,0:0,Pyramids FC,Pharco FC,Sun,0,0,Tie,2021-2022
+2021165,19,2022-05-16,6:30 PM,1:0,El Mahalla,Eastern Company,Mon,1,0,HomeWin,2021-2022
+2021166,19,2022-05-16,9:00 PM,2:1,Smouha,El Masry,Mon,2,1,HomeWin,2021-2022
+2021167,19,2022-05-17,4:00 PM,0:1,El Gouna,El Makasa,Tue,0,1,AwayWin,2021-2022
+2021168,19,2022-05-17,6:30 PM,4:3,Future FC,Ittihad Alex,Tue,4,3,HomeWin,2021-2022
+2021169,19,2022-05-17,9:00 PM,0:1,Zamalek,Talaea El Gaish,Tue,0,1,AwayWin,2021-2022
+2021170,19,2022-05-18,8:00 PM,0:0,Bank El Ahly,Ahly SC,Wed,0,0,Tie,2021-2022
+2021171,20,2022-05-21,4:00 PM,2:2,Eastern Company,Smouha,Sat,2,2,Tie,2021-2022
+2021172,20,2022-05-21,6:30 PM,1:0,Talaea El Gaish,El Mokawloon,Sat,1,0,HomeWin,2021-2022
+2021173,20,2022-05-22,4:00 PM,2:2,Ismaily,Bank El Ahly,Sun,2,2,Tie,2021-2022
+2021174,20,2022-05-22,6:30 PM,0:1,El Masry,Future FC,Sun,0,1,AwayWin,2021-2022
+2021175,20,2022-05-22,,4:1,Cleopatra FC,El Makasa,Sun,4,1,HomeWin,2021-2022
+2021176,20,2022-05-22,9:00 PM,1:0,Ittihad Alex,Pyramids FC,Sun,1,0,HomeWin,2021-2022
+2021177,20,2022-05-23,6:30 PM,0:0,Pharco FC,El Gouna,Mon,0,0,Tie,2021-2022
+2021178,20,2022-05-24,6:30 PM,2:2,Enppi SC,El Mahalla,Tue,2,2,Tie,2021-2022
+2021179,20,2022-06-19,8:00 PM,2:2,Ahly SC,Zamalek,Sun,2,2,Tie,2021-2022
+2021180,21,2022-05-27,6:30 PM,1:0,El Gouna,Ittihad Alex,Fri,1,0,HomeWin,2021-2022
+2021181,21,2022-05-27,9:00 PM,0:0,El Makasa,Pharco FC,Fri,0,0,Tie,2021-2022
+2021182,21,2022-05-28,4:00 PM,0:1,El Mahalla,Talaea El Gaish,Sat,0,1,AwayWin,2021-2022
+2021183,21,2022-05-28,6:30 PM,1:1,Smouha,Enppi SC,Sat,1,1,Tie,2021-2022
+2021184,21,2022-05-28,,2:1,Zamalek,Ismaily,Sat,2,1,HomeWin,2021-2022
+2021185,21,2022-05-29,4:00 PM,1:1,Future FC,Eastern Company,Sun,1,1,Tie,2021-2022
+2021186,21,2022-05-29,6:30 PM,3:1,Pyramids FC,El Masry,Sun,3,1,HomeWin,2021-2022
+2021187,21,2022-05-30,6:30 PM,0:0,Bank El Ahly,Cleopatra FC,Mon,0,0,Tie,2021-2022
+2021188,21,2022-07-30,9:00 PM,0:0,El Mokawloon,Ahly SC,Sat,0,0,Tie,2021-2022
+2021189,22,2022-06-17,7:00 PM,1:1,Cleopatra FC,Pharco FC,Fri,1,1,Tie,2021-2022
+2021190,22,2022-06-17,,0:0,Ismaily,El Mokawloon,Fri,0,0,Tie,2021-2022
+2021191,22,2022-06-17,9:30 PM,3:3,Talaea El Gaish,Smouha,Fri,3,3,Tie,2021-2022
+2021192,22,2022-06-18,4:30 PM,1:0,El Masry,El Gouna,Sat,1,0,HomeWin,2021-2022
+2021193,22,2022-06-18,7:00 PM,1:2,Enppi SC,Future FC,Sat,1,2,AwayWin,2021-2022
+2021194,22,2022-06-18,9:30 PM,1:0,Ittihad Alex,El Makasa,Sat,1,0,HomeWin,2021-2022
+2021195,22,2022-06-22,7:00 PM,0:3,Eastern Company,Pyramids FC,Wed,0,3,AwayWin,2021-2022
+2021196,22,2022-06-22,,1:2,Bank El Ahly,Zamalek,Wed,1,2,AwayWin,2021-2022
+2021197,22,2022-06-22,9:30 PM,2:1,Ahly SC,El Mahalla,Wed,2,1,HomeWin,2021-2022
+2021198,23,2022-06-26,7:00 PM,0:2,El Makasa,El Masry,Sun,0,2,AwayWin,2021-2022
+2021199,23,2022-06-27,7:00 PM,2:3,El Gouna,Eastern Company,Mon,2,3,AwayWin,2021-2022
+2021200,23,2022-06-27,,0:1,Pharco FC,Ittihad Alex,Mon,0,1,AwayWin,2021-2022
+2021201,23,2022-06-27,9:30 PM,0:1,Future FC,Talaea El Gaish,Mon,0,1,AwayWin,2021-2022
+2021202,23,2022-06-28,7:00 PM,0:0,El Mahalla,Ismaily,Tue,0,0,Tie,2021-2022
+2021203,23,2022-06-28,,1:1,El Mokawloon,Bank El Ahly,Tue,1,1,Tie,2021-2022
+2021204,23,2022-06-28,9:30 PM,3:2,Zamalek,Cleopatra FC,Tue,3,2,HomeWin,2021-2022
+2021205,23,2022-06-29,7:00 PM,1:0,Pyramids FC,Enppi SC,Wed,1,0,HomeWin,2021-2022
+2021206,23,2022-06-29,9:30 PM,3:2,Smouha,Ahly SC,Wed,3,2,HomeWin,2021-2022
+2021207,24,2022-07-12,4:30 PM,2:1,Bank El Ahly,El Mahalla,Tue,2,1,HomeWin,2021-2022
+2021208,24,2022-07-12,6:30 PM,2:2,Talaea El Gaish,Pyramids FC,Tue,2,2,Tie,2021-2022
+2021209,24,2022-07-12,,1:0,Zamalek,El Mokawloon,Tue,1,0,HomeWin,2021-2022
+2021210,24,2022-07-12,9:00 PM,4:0,Ahly SC,Future FC,Tue,4,0,HomeWin,2021-2022
+2021211,24,2022-07-13,6:30 PM,0:0,El Masry,Pharco FC,Wed,0,0,Tie,2021-2022
+2021212,24,2022-07-13,,1:0,Ismaily,Smouha,Wed,1,0,HomeWin,2021-2022
+2021213,24,2022-07-13,9:00 PM,2:2,Enppi SC,El Gouna,Wed,2,2,Tie,2021-2022
+2021214,24,2022-07-14,6:30 PM,2:1,Eastern Company,El Makasa,Thu,2,1,HomeWin,2021-2022
+2021215,24,2022-07-14,9:00 PM,5:0,Cleopatra FC,Ittihad Alex,Thu,5,0,HomeWin,2021-2022
+2021216,25,2022-07-16,6:30 PM,0:2,El Mahalla,Zamalek,Sat,0,2,AwayWin,2021-2022
+2021217,25,2022-07-16,,1:2,Future FC,Ismaily,Sat,1,2,AwayWin,2021-2022
+2021218,25,2022-07-16,9:00 PM,2:0,Pyramids FC,Ahly SC,Sat,2,0,HomeWin,2021-2022
+2021219,25,2022-07-17,6:30 PM,0:1,Smouha,Bank El Ahly,Sun,0,1,AwayWin,2021-2022
+2021220,25,2022-07-17,,2:1,El Gouna,Talaea El Gaish,Sun,2,1,HomeWin,2021-2022
+2021221,25,2022-07-17,9:00 PM,0:1,El Mokawloon,Cleopatra FC,Sun,0,1,AwayWin,2021-2022
+2021222,25,2022-07-18,6:30 PM,1:1,Pharco FC,Eastern Company,Mon,1,1,Tie,2021-2022
+2021223,25,2022-07-18,9:00 PM,0:2,El Makasa,Enppi SC,Mon,0,2,AwayWin,2021-2022
+2021224,25,2022-07-18,,0:0,Ittihad Alex,El Masry,Mon,0,0,Tie,2021-2022
+2021225,26,2022-07-21,6:30 PM,2:2,Eastern Company,Ittihad Alex,Thu,2,2,Tie,2021-2022
+2021226,26,2022-07-22,6:30 PM,1:4,Cleopatra FC,El Masry,Fri,1,4,AwayWin,2021-2022
+2021227,26,2022-07-22,,1:0,El Mokawloon,El Mahalla,Fri,1,0,HomeWin,2021-2022
+2021228,26,2022-07-22,9:00 PM,0:1,Enppi SC,Pharco FC,Fri,0,1,AwayWin,2021-2022
+2021229,26,2022-07-23,6:30 PM,0:0,Talaea El Gaish,El Makasa,Sat,0,0,Tie,2021-2022
+2021230,26,2022-07-23,9:00 PM,1:4,Bank El Ahly,Future FC,Sat,1,4,AwayWin,2021-2022
+2021231,26,2022-07-24,6:30 PM,0:4,Ismaily,Pyramids FC,Sun,0,4,AwayWin,2021-2022
+2021232,26,2022-07-24,,2:0,Ahly SC,El Gouna,Sun,2,0,HomeWin,2021-2022
+2021233,26,2022-07-24,9:00 PM,2:0,Zamalek,Smouha,Sun,2,0,HomeWin,2021-2022
+2021234,27,2022-07-26,6:30 PM,0:0,El Mahalla,Cleopatra FC,Tue,0,0,Tie,2021-2022
+2021235,27,2022-07-26,,1:2,El Masry,Eastern Company,Tue,1,2,AwayWin,2021-2022
+2021236,27,2022-07-26,9:00 PM,2:1,Ittihad Alex,Enppi SC,Tue,2,1,HomeWin,2021-2022
+2021237,27,2022-07-27,6:30 PM,1:0,Pyramids FC,Bank El Ahly,Wed,1,0,HomeWin,2021-2022
+2021238,27,2022-07-27,,1:1,Smouha,El Mokawloon,Wed,1,1,Tie,2021-2022
+2021239,27,2022-07-27,9:00 PM,0:1,El Makasa,Ahly SC,Wed,0,1,AwayWin,2021-2022
+2021240,27,2022-07-28,6:30 PM,0:1,Pharco FC,Talaea El Gaish,Thu,0,1,AwayWin,2021-2022
+2021241,27,2022-07-28,,0:3,El Gouna,Ismaily,Thu,0,3,AwayWin,2021-2022
+2021242,27,2022-07-28,9:00 PM,0:1,Future FC,Zamalek,Thu,0,1,AwayWin,2021-2022
+2021243,28,2022-07-30,6:30 PM,1:1,Enppi SC,El Masry,Sat,1,1,Tie,2021-2022
+2021244,28,2022-07-31,6:30 PM,0:1,Cleopatra FC,Eastern Company,Sun,0,1,AwayWin,2021-2022
+2021245,28,2022-07-31,,1:0,El Mahalla,Smouha,Sun,1,0,HomeWin,2021-2022
+2021246,28,2022-07-31,9:00 PM,2:1,Talaea El Gaish,Ittihad Alex,Sun,2,1,HomeWin,2021-2022
+2021247,28,2022-08-01,6:30 PM,1:0,Ismaily,El Makasa,Mon,1,0,HomeWin,2021-2022
+2021248,28,2022-08-01,,1:1,Bank El Ahly,El Gouna,Mon,1,1,Tie,2021-2022
+2021249,28,2022-08-01,9:00 PM,3:0,Zamalek,Pyramids FC,Mon,3,0,HomeWin,2021-2022
+2021250,28,2022-08-02,6:30 PM,0:1,El Mokawloon,Future FC,Tue,0,1,AwayWin,2021-2022
+2021251,28,2022-08-03,9:00 PM,0:0,Ahly SC,Pharco FC,Wed,0,0,Tie,2021-2022
+2021252,29,2022-08-04,6:30 PM,1:1,Smouha,Cleopatra FC,Thu,1,1,Tie,2021-2022
+2021253,29,2022-08-04,,0:2,Eastern Company,Enppi SC,Thu,0,2,AwayWin,2021-2022
+2021254,29,2022-08-04,9:00 PM,0:0,El Masry,Talaea El Gaish,Thu,0,0,Tie,2021-2022
+2021255,29,2022-08-05,6:30 PM,1:2,El Makasa,Bank El Ahly,Fri,1,2,AwayWin,2021-2022
+2021256,29,2022-08-05,9:00 PM,1:4,El Gouna,Zamalek,Fri,1,4,AwayWin,2021-2022
+2021257,29,2022-08-06,6:30 PM,2:1,Future FC,El Mahalla,Sat,2,1,HomeWin,2021-2022
+2021258,29,2022-08-06,,0:0,Pharco FC,Ismaily,Sat,0,0,Tie,2021-2022
+2021259,29,2022-08-06,9:00 PM,1:0,Pyramids FC,El Mokawloon,Sat,1,0,HomeWin,2021-2022
+2021260,29,2022-08-07,9:00 PM,0:3,Ittihad Alex,Ahly SC,Sun,0,3,AwayWin,2021-2022
+2021261,30,2022-08-08,6:30 PM,0:0,Cleopatra FC,Enppi SC,Mon,0,0,Tie,2021-2022
+2021262,30,2022-08-08,,1:1,Talaea El Gaish,Eastern Company,Mon,1,1,Tie,2021-2022
+2021263,30,2022-08-09,6:30 PM,0:2,El Mahalla,Pyramids FC,Tue,0,2,AwayWin,2021-2022
+2021264,30,2022-08-09,9:00 PM,5:0,Zamalek,El Makasa,Tue,5,0,HomeWin,2021-2022
+2021265,30,2022-08-09,,0:1,Bank El Ahly,Pharco FC,Tue,0,1,AwayWin,2021-2022
+2021266,30,2022-08-10,6:30 PM,1:1,Smouha,Future FC,Wed,1,1,Tie,2021-2022
+2021267,30,2022-08-10,,0:0,El Mokawloon,El Gouna,Wed,0,0,Tie,2021-2022
+2021268,30,2022-08-10,9:00 PM,2:0,Ahly SC,El Masry,Wed,2,0,HomeWin,2021-2022
+2021269,30,2022-08-11,6:30 PM,1:0,Ismaily,Ittihad Alex,Thu,1,0,HomeWin,2021-2022
+2021270,31,2022-08-17,6:30 PM,0:1,Enppi SC,Talaea El Gaish,Wed,0,1,AwayWin,2021-2022
+2021271,31,2022-08-17,9:00 PM,0:0,Eastern Company,Ahly SC,Wed,0,0,Tie,2021-2022
+2021272,31,2022-08-18,6:30 PM,0:0,El Gouna,El Mahalla,Thu,0,0,Tie,2021-2022
+2021273,31,2022-08-18,,4:1,El Masry,Ismaily,Thu,4,1,HomeWin,2021-2022
+2021274,31,2022-08-18,9:00 PM,1:1,Future FC,Cleopatra FC,Thu,1,1,Tie,2021-2022
+2021275,31,2022-08-19,6:30 PM,0:3,El Makasa,El Mokawloon,Fri,0,3,AwayWin,2021-2022
+2021276,31,2022-08-19,,0:1,Pharco FC,Zamalek,Fri,0,1,AwayWin,2021-2022
+2021277,31,2022-08-19,9:00 PM,5:1,Pyramids FC,Smouha,Fri,5,1,HomeWin,2021-2022
+2021278,31,2022-08-20,6:30 PM,3:0,Ittihad Alex,Bank El Ahly,Sat,3,0,HomeWin,2021-2022
+2021279,32,2022-08-22,5:30 PM,1:0,El Mahalla,El Makasa,Mon,1,0,HomeWin,2021-2022
+2021280,32,2022-08-22,,1:1,Cleopatra FC,Talaea El Gaish,Mon,1,1,Tie,2021-2022
+2021281,32,2022-08-22,8:00 PM,1:0,Future FC,Pyramids FC,Mon,1,0,HomeWin,2021-2022
+2021282,32,2022-08-23,5:30 PM,2:0,El Mokawloon,Pharco FC,Tue,2,0,HomeWin,2021-2022
+2021283,32,2022-08-23,,2:2,Smouha,El Gouna,Tue,2,2,Tie,2021-2022
+2021284,32,2022-08-23,8:00 PM,2:2,Bank El Ahly,El Masry,Tue,2,2,Tie,2021-2022
+2021285,32,2022-08-23,,1:1,Zamalek,Ittihad Alex,Tue,1,1,Tie,2021-2022
+2021286,32,2022-08-24,5:30 PM,1:1,Ismaily,Eastern Company,Wed,1,1,Tie,2021-2022
+2021287,32,2022-08-24,8:00 PM,2:0,Ahly SC,Enppi SC,Wed,2,0,HomeWin,2021-2022
+2021288,33,2022-08-26,4:00 PM,0:2,El Makasa,Smouha,Fri,0,2,AwayWin,2021-2022
+2021289,33,2022-08-26,6:30 PM,0:1,Ittihad Alex,El Mokawloon,Fri,0,1,AwayWin,2021-2022
+2021290,33,2022-08-26,,2:1,El Gouna,Future FC,Fri,2,1,HomeWin,2021-2022
+2021291,33,2022-08-26,9:00 PM,0:2,Cleopatra FC,Pyramids FC,Fri,0,2,AwayWin,2021-2022
+2021292,33,2022-08-26,,0:0,El Masry,Zamalek,Fri,0,0,Tie,2021-2022
+2021293,33,2022-08-27,5:30 PM,2:0,Enppi SC,Ismaily,Sat,2,0,HomeWin,2021-2022
+2021294,33,2022-08-27,,1:1,Pharco FC,El Mahalla,Sat,1,1,Tie,2021-2022
+2021295,33,2022-08-27,8:00 PM,1:0,Talaea El Gaish,Ahly SC,Sat,1,0,HomeWin,2021-2022
+2021296,33,2022-08-27,,2:3,Eastern Company,Bank El Ahly,Sat,2,3,AwayWin,2021-2022
+2021297,34,2022-08-29,7:00 PM,1:0,Future FC,El Makasa,Mon,1,0,HomeWin,2021-2022
+2021298,34,2022-08-30,4:30 PM,0:0,Smouha,Pharco FC,Tue,0,0,Tie,2021-2022
+2021299,34,2022-08-30,,1:1,Bank El Ahly,Enppi SC,Tue,1,1,Tie,2021-2022
+2021300,34,2022-08-30,,4:0,Ahly SC,Cleopatra FC,Tue,4,0,HomeWin,2021-2022
+2021301,34,2022-08-30,6:30 PM,0:1,Ismaily,Talaea El Gaish,Tue,0,1,AwayWin,2021-2022
+2021302,34,2022-08-30,9:30 PM,1:3,Pyramids FC,El Gouna,Tue,1,3,AwayWin,2021-2022
+2021303,34,2022-08-30,,1:1,El Mahalla,Ittihad Alex,Tue,1,1,Tie,2021-2022
+2021304,34,2022-08-30,,2:1,El Mokawloon,El Masry,Tue,2,1,HomeWin,2021-2022
+2021305,34,2022-08-30,,1:2,Zamalek,Eastern Company,Tue,1,2,AwayWin,2021-2022

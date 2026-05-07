@@ -1,0 +1,307 @@
+match_id,Gameweek,Date,Time,Result,Home team,Away team,Day,HomeGoals,AwayGoals,Status,Season
+2018000,1,2018-07-31,6:00 PM,1:1,Ittihad Alex,El Mokawloon,Tue,1,1,Tie,2018-2019
+2018001,1,2018-07-31,9:00 PM,0:0,Petrojet,Zamalek,Tue,0,0,Tie,2018-2019
+2018002,1,2018-08-01,4:00 PM,1:1,El Dakhlia,Wadi Degla,Wed,1,1,Tie,2018-2019
+2018003,1,2018-08-01,6:15 PM,2:1,Entag El Harby,Harras Hodoud,Wed,2,1,HomeWin,2018-2019
+2018004,1,2018-08-01,9:00 PM,0:0,Nogoom FC,Talaea El Gaish,Wed,0,0,Tie,2018-2019
+2018005,1,2018-08-02,6:00 PM,0:1,El Gouna,El Masry,Thu,0,1,AwayWin,2018-2019
+2018006,1,2018-08-02,9:00 PM,1:1,Ahly SC,Ismaily,Thu,1,1,Tie,2018-2019
+2018007,1,2018-08-03,6:00 PM,1:2,El Makasa,Smouha,Fri,1,2,AwayWin,2018-2019
+2018008,1,2018-08-03,9:00 PM,0:1,Enppi SC,Pyramids FC,Fri,0,1,AwayWin,2018-2019
+2018009,2,2018-08-04,8:00 PM,5:1,Zamalek,Ittihad Alex,Sat,5,1,HomeWin,2018-2019
+2018010,2,2018-08-06,4:30 PM,1:2,Harras Hodoud,El Dakhlia,Mon,1,2,AwayWin,2018-2019
+2018011,2,2018-08-06,6:45 PM,0:0,Ismaily,Petrojet,Mon,0,0,Tie,2018-2019
+2018012,2,2018-08-06,9:00 PM,1:3,Wadi Degla,El Gouna,Mon,1,3,AwayWin,2018-2019
+2018013,2,2018-08-07,8:00 PM,0:2,El Masry,Ahly SC,Tue,0,2,AwayWin,2018-2019
+2018014,2,2018-08-08,4:30 PM,1:1,Pyramids FC,Entag El Harby,Wed,1,1,Tie,2018-2019
+2018015,2,2018-08-08,6:45 PM,1:2,El Mokawloon,El Makasa,Wed,1,2,AwayWin,2018-2019
+2018016,2,2018-08-08,,0:0,Smouha,Nogoom FC,Wed,0,0,Tie,2018-2019
+2018017,2,2018-08-08,9:00 PM,0:3,Talaea El Gaish,Enppi SC,Wed,0,3,AwayWin,2018-2019
+2018018,3,2018-08-14,4:00 PM,0:1,El Dakhlia,Entag El Harby,Tue,0,1,AwayWin,2018-2019
+2018019,3,2018-08-14,6:15 PM,1:1,El Gouna,Harras Hodoud,Tue,1,1,Tie,2018-2019
+2018020,3,2018-08-14,,2:3,Enppi SC,Smouha,Tue,2,3,AwayWin,2018-2019
+2018021,3,2018-08-14,,2:2,Petrojet,El Masry,Tue,2,2,Tie,2018-2019
+2018022,3,2018-08-14,9:00 PM,1:2,Talaea El Gaish,Pyramids FC,Tue,1,2,AwayWin,2018-2019
+2018023,3,2018-08-15,8:00 PM,0:2,Nogoom FC,El Mokawloon,Wed,0,2,AwayWin,2018-2019
+2018024,3,2018-08-16,9:00 PM,0:1,El Makasa,Zamalek,Thu,0,1,AwayWin,2018-2019
+2018025,3,2018-08-17,6:00 PM,1:0,Ittihad Alex,Ismaily,Fri,1,0,HomeWin,2018-2019
+2018026,3,2018-08-21,8:00 PM,1:0,Ahly SC,Wadi Degla,Tue,1,0,HomeWin,2018-2019
+2018027,4,2018-08-10,8:00 PM,0:2,Wadi Degla,Petrojet,Fri,0,2,AwayWin,2018-2019
+2018028,4,2018-08-24,4:00 PM,1:2,El Mokawloon,Enppi SC,Fri,1,2,AwayWin,2018-2019
+2018029,4,2018-08-24,6:15 PM,1:0,Ismaily,El Makasa,Fri,1,0,HomeWin,2018-2019
+2018030,4,2018-08-24,9:00 PM,0:2,Harras Hodoud,Ahly SC,Fri,0,2,AwayWin,2018-2019
+2018031,4,2018-08-25,5:30 PM,2:2,El Masry,Ittihad Alex,Sat,2,2,Tie,2018-2019
+2018032,4,2018-08-26,4:00 PM,0:0,Smouha,Talaea El Gaish,Sun,0,0,Tie,2018-2019
+2018033,4,2018-08-26,6:15 PM,3:1,Pyramids FC,El Dakhlia,Sun,3,1,HomeWin,2018-2019
+2018034,4,2018-08-26,9:00 PM,0:0,Entag El Harby,El Gouna,Sun,0,0,Tie,2018-2019
+2018035,4,2018-08-27,8:00 PM,0:1,Zamalek,Nogoom FC,Mon,0,1,AwayWin,2018-2019
+2018036,5,2018-08-31,6:00 PM,0:0,Petrojet,Harras Hodoud,Fri,0,0,Tie,2018-2019
+2018037,5,2018-08-31,,1:1,Nogoom FC,Ismaily,Fri,1,1,Tie,2018-2019
+2018038,5,2018-08-31,9:00 PM,3:2,El Gouna,El Dakhlia,Fri,3,2,HomeWin,2018-2019
+2018039,5,2018-08-31,,3:1,Talaea El Gaish,El Mokawloon,Fri,3,1,HomeWin,2018-2019
+2018040,5,2018-09-01,9:00 PM,1:4,Enppi SC,Zamalek,Sat,1,4,AwayWin,2018-2019
+2018041,5,2018-09-02,6:00 PM,1:1,Smouha,Pyramids FC,Sun,1,1,Tie,2018-2019
+2018042,5,2018-09-02,9:00 PM,0:0,Ahly SC,Entag El Harby,Sun,0,0,Tie,2018-2019
+2018043,5,2018-09-03,8:00 PM,0:0,El Makasa,El Masry,Mon,0,0,Tie,2018-2019
+2018044,5,2018-09-28,5:00 PM,2:2,Ittihad Alex,Wadi Degla,Fri,2,2,Tie,2018-2019
+2018045,6,2018-09-11,6:00 PM,5:3,El Masry,Nogoom FC,Tue,5,3,HomeWin,2018-2019
+2018046,6,2018-09-12,3:30 PM,2:1,Entag El Harby,Petrojet,Wed,2,1,HomeWin,2018-2019
+2018047,6,2018-09-12,,1:1,Harras Hodoud,Ittihad Alex,Wed,1,1,Tie,2018-2019
+2018048,6,2018-09-12,6:00 PM,2:1,El Mokawloon,Smouha,Wed,2,1,HomeWin,2018-2019
+2018049,6,2018-09-12,9:00 PM,1:1,Pyramids FC,El Gouna,Wed,1,1,Tie,2018-2019
+2018050,6,2018-09-12,,1:2,Wadi Degla,El Makasa,Wed,1,2,AwayWin,2018-2019
+2018051,6,2018-09-13,6:00 PM,3:2,Ismaily,Enppi SC,Thu,3,2,HomeWin,2018-2019
+2018052,6,2018-09-13,9:00 PM,3:0,Zamalek,Talaea El Gaish,Thu,3,0,HomeWin,2018-2019
+2018053,6,2018-12-29,5:00 PM,2:2,El Dakhlia,Ahly SC,Sat,2,2,Tie,2018-2019
+2018054,7,2018-09-17,6:00 PM,1:1,Petrojet,El Dakhlia,Mon,1,1,Tie,2018-2019
+2018055,7,2018-09-17,,1:1,Ittihad Alex,Entag El Harby,Mon,1,1,Tie,2018-2019
+2018056,7,2018-09-17,9:00 PM,0:1,El Mokawloon,Pyramids FC,Mon,0,1,AwayWin,2018-2019
+2018057,7,2018-09-17,,3:0,El Makasa,Harras Hodoud,Mon,3,0,HomeWin,2018-2019
+2018058,7,2018-09-18,3:30 PM,3:0,Talaea El Gaish,Ismaily,Tue,3,0,HomeWin,2018-2019
+2018059,7,2018-09-18,6:00 PM,1:1,Smouha,Zamalek,Tue,1,1,Tie,2018-2019
+2018060,7,2018-09-19,9:00 PM,0:1,Nogoom FC,Wadi Degla,Wed,0,1,AwayWin,2018-2019
+2018061,7,2018-11-29,6:00 PM,1:3,Enppi SC,El Masry,Thu,1,3,AwayWin,2018-2019
+2018062,7,2018-12-05,7:00 PM,2:1,Ahly SC,El Gouna,Wed,2,1,HomeWin,2018-2019
+2018063,8,2018-09-21,3:30 PM,3:0,El Dakhlia,Ittihad Alex,Fri,3,0,HomeWin,2018-2019
+2018064,8,2018-09-21,6:00 PM,1:2,Entag El Harby,El Makasa,Fri,1,2,AwayWin,2018-2019
+2018065,8,2018-09-22,3:30 PM,1:2,Petrojet,El Gouna,Sat,1,2,AwayWin,2018-2019
+2018066,8,2018-09-22,6:00 PM,1:3,Ismaily,Smouha,Sat,1,3,AwayWin,2018-2019
+2018067,8,2018-09-23,3:30 PM,1:0,Harras Hodoud,Nogoom FC,Sun,1,0,HomeWin,2018-2019
+2018068,8,2018-09-23,9:00 PM,2:1,Zamalek,El Mokawloon,Sun,2,1,HomeWin,2018-2019
+2018069,8,2018-09-24,6:00 PM,1:2,Wadi Degla,Enppi SC,Mon,1,2,AwayWin,2018-2019
+2018070,8,2018-09-28,7:00 PM,1:1,El Masry,Talaea El Gaish,Fri,1,1,Tie,2018-2019
+2018071,8,2019-01-04,5:00 PM,2:1,Pyramids FC,Ahly SC,Fri,2,1,HomeWin,2018-2019
+2018072,9,2018-09-30,6:00 PM,0:1,Nogoom FC,Entag El Harby,Sun,0,1,AwayWin,2018-2019
+2018073,9,2018-09-30,9:00 PM,0:1,El Makasa,El Dakhlia,Sun,0,1,AwayWin,2018-2019
+2018074,9,2018-10-01,6:00 PM,0:0,Enppi SC,Harras Hodoud,Mon,0,0,Tie,2018-2019
+2018075,9,2018-10-02,5:30 PM,2:1,Ittihad Alex,El Gouna,Tue,2,1,HomeWin,2018-2019
+2018076,9,2018-10-03,9:00 PM,1:2,Talaea El Gaish,Wadi Degla,Wed,1,2,AwayWin,2018-2019
+2018077,9,2018-12-01,5:00 PM,0:1,Petrojet,Ahly SC,Sat,0,1,AwayWin,2018-2019
+2018078,9,2018-12-30,3:00 PM,0:0,Smouha,El Masry,Sun,0,0,Tie,2018-2019
+2018079,9,2019-01-02,5:00 PM,1:2,El Mokawloon,Ismaily,Wed,1,2,AwayWin,2018-2019
+2018080,9,2019-01-24,7:00 PM,3:3,Zamalek,Pyramids FC,Thu,3,3,Tie,2018-2019
+2018081,10,2018-10-03,6:00 PM,3:3,Pyramids FC,Petrojet,Wed,3,3,Tie,2018-2019
+2018082,10,2018-10-05,3:00 PM,1:2,El Dakhlia,Nogoom FC,Fri,1,2,AwayWin,2018-2019
+2018083,10,2018-10-05,6:00 PM,2:2,Entag El Harby,Enppi SC,Fri,2,2,Tie,2018-2019
+2018084,10,2018-10-06,6:00 PM,0:0,El Gouna,El Makasa,Sat,0,0,Tie,2018-2019
+2018085,10,2018-10-07,3:00 PM,1:3,Harras Hodoud,Talaea El Gaish,Sun,1,3,AwayWin,2018-2019
+2018086,10,2018-10-07,6:00 PM,0:1,Wadi Degla,Smouha,Sun,0,1,AwayWin,2018-2019
+2018087,10,2018-10-07,9:00 PM,3:4,Ahly SC,Ittihad Alex,Sun,3,4,AwayWin,2018-2019
+2018088,10,2019-01-25,4:00 PM,1:0,El Masry,El Mokawloon,Fri,1,0,HomeWin,2018-2019
+2018089,10,2019-04-18,5:00 PM,0:2,Ismaily,Zamalek,Thu,0,2,AwayWin,2018-2019
+2018090,11,2018-10-18,3:00 PM,0:0,Talaea El Gaish,Entag El Harby,Thu,0,0,Tie,2018-2019
+2018091,11,2018-10-18,6:00 PM,0:0,Nogoom FC,El Gouna,Thu,0,0,Tie,2018-2019
+2018092,11,2018-10-18,9:00 PM,0:1,El Mokawloon,Wadi Degla,Thu,0,1,AwayWin,2018-2019
+2018093,11,2018-10-19,3:00 PM,1:1,Smouha,Harras Hodoud,Fri,1,1,Tie,2018-2019
+2018094,11,2018-10-19,6:00 PM,2:0,Ismaily,Pyramids FC,Fri,2,0,HomeWin,2018-2019
+2018095,11,2018-10-19,9:00 PM,1:1,Enppi SC,El Dakhlia,Fri,1,1,Tie,2018-2019
+2018096,11,2018-10-20,7:00 PM,1:1,Ittihad Alex,Petrojet,Sat,1,1,Tie,2018-2019
+2018097,11,2018-12-06,6:00 PM,2:0,Zamalek,El Masry,Thu,2,0,HomeWin,2018-2019
+2018098,11,2019-01-24,4:00 PM,0:3,El Makasa,Ahly SC,Thu,0,3,AwayWin,2018-2019
+2018099,12,2018-11-01,2:00 PM,0:0,Harras Hodoud,El Mokawloon,Thu,0,0,Tie,2018-2019
+2018100,12,2018-11-01,4:30 PM,0:1,Petrojet,El Makasa,Thu,0,1,AwayWin,2018-2019
+2018101,12,2018-11-01,7:30 PM,2:4,Wadi Degla,Zamalek,Thu,2,4,AwayWin,2018-2019
+2018102,12,2018-11-02,1:45 PM,2:1,El Dakhlia,Talaea El Gaish,Fri,2,1,HomeWin,2018-2019
+2018103,12,2018-11-02,2:30 PM,1:1,El Gouna,Enppi SC,Fri,1,1,Tie,2018-2019
+2018104,12,2018-11-02,4:30 PM,2:2,Entag El Harby,Smouha,Fri,2,2,Tie,2018-2019
+2018105,12,2018-11-02,,3:0,Pyramids FC,Ittihad Alex,Fri,3,0,HomeWin,2018-2019
+2018106,12,2018-11-03,4:00 PM,0:0,Ismaily,El Masry,Sat,0,0,Tie,2018-2019
+2018107,12,2018-12-17,6:00 PM,2:0,Ahly SC,Nogoom FC,Mon,2,0,HomeWin,2018-2019
+2018108,13,2018-11-05,6:00 PM,2:1,Zamalek,Harras Hodoud,Mon,2,1,HomeWin,2018-2019
+2018109,13,2018-11-06,1:45 PM,3:2,Nogoom FC,Petrojet,Tue,3,2,HomeWin,2018-2019
+2018110,13,2018-11-06,4:00 PM,5:0,Talaea El Gaish,El Gouna,Tue,5,0,HomeWin,2018-2019
+2018111,13,2018-11-06,,1:1,Smouha,El Dakhlia,Tue,1,1,Tie,2018-2019
+2018112,13,2018-11-06,7:00 PM,2:0,El Mokawloon,Entag El Harby,Tue,2,0,HomeWin,2018-2019
+2018113,13,2018-11-07,6:30 PM,1:3,Ismaily,Wadi Degla,Wed,1,3,AwayWin,2018-2019
+2018114,13,2018-11-08,6:00 PM,1:0,El Makasa,Ittihad Alex,Thu,1,0,HomeWin,2018-2019
+2018115,13,2019-01-08,6:30 PM,3:3,El Masry,Pyramids FC,Tue,3,3,Tie,2018-2019
+2018116,13,2019-02-05,5:00 PM,1:2,Enppi SC,Ahly SC,Tue,1,2,AwayWin,2018-2019
+2018117,14,2018-11-10,5:00 PM,1:2,Entag El Harby,Zamalek,Sat,1,2,AwayWin,2018-2019
+2018118,14,2018-11-10,7:30 PM,1:1,El Gouna,Smouha,Sat,1,1,Tie,2018-2019
+2018119,14,2018-11-11,1:45 PM,1:0,Harras Hodoud,Ismaily,Sun,1,0,HomeWin,2018-2019
+2018120,14,2018-11-11,4:00 PM,0:0,Petrojet,Enppi SC,Sun,0,0,Tie,2018-2019
+2018121,14,2018-11-11,6:30 PM,1:1,Wadi Degla,El Masry,Sun,1,1,Tie,2018-2019
+2018122,14,2018-11-12,1:45 PM,0:2,El Dakhlia,El Mokawloon,Mon,0,2,AwayWin,2018-2019
+2018123,14,2018-11-12,4:00 PM,0:2,Ittihad Alex,Nogoom FC,Mon,0,2,AwayWin,2018-2019
+2018124,14,2018-11-12,7:00 PM,2:0,Pyramids FC,El Makasa,Mon,2,0,HomeWin,2018-2019
+2018125,14,2018-12-09,6:00 PM,2:0,Ahly SC,Talaea El Gaish,Sun,2,0,HomeWin,2018-2019
+2018126,15,2018-11-20,1:45 PM,4:2,El Mokawloon,El Gouna,Tue,4,2,HomeWin,2018-2019
+2018127,15,2018-11-20,5:00 PM,0:1,Enppi SC,Ittihad Alex,Tue,0,1,AwayWin,2018-2019
+2018128,15,2018-11-21,1:45 PM,0:2,Nogoom FC,El Makasa,Wed,0,2,AwayWin,2018-2019
+2018129,15,2018-11-21,4:15 PM,3:3,Talaea El Gaish,Petrojet,Wed,3,3,Tie,2018-2019
+2018130,15,2018-11-21,,3:0,Harras Hodoud,El Masry,Wed,3,0,HomeWin,2018-2019
+2018131,15,2018-11-21,7:00 PM,1:2,Ismaily,Entag El Harby,Wed,1,2,AwayWin,2018-2019
+2018132,15,2018-11-21,,1:1,Wadi Degla,Pyramids FC,Wed,1,1,Tie,2018-2019
+2018133,15,2018-11-22,6:00 PM,2:1,Zamalek,El Dakhlia,Thu,2,1,HomeWin,2018-2019
+2018134,15,2019-01-08,4:00 PM,0:1,Smouha,Ahly SC,Tue,0,1,AwayWin,2018-2019
+2018135,16,2018-11-25,2:15 PM,4:3,El Makasa,Enppi SC,Sun,4,3,HomeWin,2018-2019
+2018136,16,2018-11-25,4:30 PM,1:1,Ittihad Alex,Talaea El Gaish,Sun,1,1,Tie,2018-2019
+2018137,16,2018-11-25,7:00 PM,0:0,Entag El Harby,El Masry,Sun,0,0,Tie,2018-2019
+2018138,16,2018-11-26,1:45 PM,4:1,Harras Hodoud,Wadi Degla,Mon,4,1,HomeWin,2018-2019
+2018139,16,2018-11-26,4:15 PM,1:0,Petrojet,Smouha,Mon,1,0,HomeWin,2018-2019
+2018140,16,2018-11-26,7:00 PM,3:0,Zamalek,El Gouna,Mon,3,0,HomeWin,2018-2019
+2018141,16,2018-11-27,6:00 PM,0:1,Ahly SC,El Mokawloon,Tue,0,1,AwayWin,2018-2019
+2018142,16,2018-11-28,6:00 PM,0:2,Nogoom FC,Pyramids FC,Wed,0,2,AwayWin,2018-2019
+2018143,16,2019-01-05,1:30 PM,0:0,El Dakhlia,Ismaily,Sat,0,0,Tie,2018-2019
+2018144,17,2018-12-10,1:45 PM,3:0,El Mokawloon,Petrojet,Mon,3,0,HomeWin,2018-2019
+2018145,17,2018-12-10,4:00 PM,1:1,El Masry,El Dakhlia,Mon,1,1,Tie,2018-2019
+2018146,17,2018-12-10,6:30 PM,3:1,Pyramids FC,Harras Hodoud,Mon,3,1,HomeWin,2018-2019
+2018147,17,2018-12-11,4:00 PM,1:2,Wadi Degla,Entag El Harby,Tue,1,2,AwayWin,2018-2019
+2018148,17,2018-12-12,4:00 PM,1:1,Smouha,Ittihad Alex,Wed,1,1,Tie,2018-2019
+2018149,17,2018-12-12,6:30 PM,1:1,Enppi SC,Nogoom FC,Wed,1,1,Tie,2018-2019
+2018150,17,2018-12-13,6:00 PM,1:0,Talaea El Gaish,El Makasa,Thu,1,0,HomeWin,2018-2019
+2018151,17,2019-03-30,6:00 PM,0:0,Zamalek,Ahly SC,Sat,0,0,Tie,2018-2019
+2018152,17,2019-04-10,5:30 PM,2:2,Ismaily,El Gouna,Wed,2,2,Tie,2018-2019
+2018153,18,2018-12-20,6:00 PM,2:2,Wadi Degla,El Dakhlia,Thu,2,2,Tie,2018-2019
+2018154,18,2018-12-21,6:00 PM,2:1,El Mokawloon,Ittihad Alex,Fri,2,1,HomeWin,2018-2019
+2018155,18,2018-12-22,4:00 PM,1:1,Smouha,El Makasa,Sat,1,1,Tie,2018-2019
+2018156,18,2018-12-22,6:30 PM,1:1,Pyramids FC,Enppi SC,Sat,1,1,Tie,2018-2019
+2018157,18,2018-12-23,4:00 PM,2:1,Harras Hodoud,Entag El Harby,Sun,2,1,HomeWin,2018-2019
+2018158,18,2018-12-23,6:30 PM,2:1,Talaea El Gaish,Nogoom FC,Sun,2,1,HomeWin,2018-2019
+2018159,18,2018-12-28,6:00 PM,2:0,Zamalek,Petrojet,Fri,2,0,HomeWin,2018-2019
+2018160,18,2019-01-03,6:00 PM,0:2,El Masry,El Gouna,Thu,0,2,AwayWin,2018-2019
+2018161,18,2019-05-22,10:00 PM,1:1,Ismaily,Ahly SC,Wed,1,1,Tie,2018-2019
+2018162,19,2018-12-26,4:00 PM,0:2,El Gouna,Wadi Degla,Wed,0,2,AwayWin,2018-2019
+2018163,19,2019-01-05,5:00 PM,1:3,Ittihad Alex,Zamalek,Sat,1,3,AwayWin,2018-2019
+2018164,19,2019-01-09,4:00 PM,1:0,Enppi SC,Talaea El Gaish,Wed,1,0,HomeWin,2018-2019
+2018165,19,2019-01-14,1:30 PM,0:1,El Dakhlia,Harras Hodoud,Mon,0,1,AwayWin,2018-2019
+2018166,19,2019-01-15,1:30 PM,2:1,El Makasa,El Mokawloon,Tue,2,1,HomeWin,2018-2019
+2018167,19,2019-01-15,4:00 PM,1:1,Entag El Harby,Pyramids FC,Tue,1,1,Tie,2018-2019
+2018168,19,2019-01-15,7:00 PM,4:0,Nogoom FC,Smouha,Tue,4,0,HomeWin,2018-2019
+2018169,19,2019-01-24,1:30 PM,0:1,Petrojet,Ismaily,Thu,0,1,AwayWin,2018-2019
+2018170,19,2019-04-25,8:00 PM,2:0,Ahly SC,El Masry,Thu,2,0,HomeWin,2018-2019
+2018171,20,2019-01-19,2:00 PM,2:2,El Mokawloon,Nogoom FC,Sat,2,2,Tie,2018-2019
+2018172,20,2019-01-19,5:00 PM,3:1,Pyramids FC,Talaea El Gaish,Sat,3,1,HomeWin,2018-2019
+2018173,20,2019-01-23,2:00 PM,1:2,Harras Hodoud,El Gouna,Wed,1,2,AwayWin,2018-2019
+2018174,20,2019-01-23,4:30 PM,0:0,Smouha,Enppi SC,Wed,0,0,Tie,2018-2019
+2018175,20,2019-01-23,7:00 PM,2:2,Entag El Harby,El Dakhlia,Wed,2,2,Tie,2018-2019
+2018176,20,2019-01-28,4:00 PM,2:0,Ismaily,Ittihad Alex,Mon,2,0,HomeWin,2018-2019
+2018177,20,2019-01-28,7:00 PM,1:2,Wadi Degla,Ahly SC,Mon,1,2,AwayWin,2018-2019
+2018178,20,2019-01-29,7:00 PM,4:1,Zamalek,El Makasa,Tue,4,1,HomeWin,2018-2019
+2018179,20,2019-01-30,3:00 PM,1:0,El Masry,Petrojet,Wed,1,0,HomeWin,2018-2019
+2018180,21,2019-01-30,6:00 PM,0:0,Enppi SC,El Mokawloon,Wed,0,0,Tie,2018-2019
+2018181,21,2019-02-03,5:00 PM,0:0,Talaea El Gaish,Smouha,Sun,0,0,Tie,2018-2019
+2018182,21,2019-02-04,4:00 PM,2:2,Ittihad Alex,El Masry,Mon,2,2,Tie,2018-2019
+2018183,21,2019-02-04,6:30 PM,0:2,El Dakhlia,Pyramids FC,Mon,0,2,AwayWin,2018-2019
+2018184,21,2019-02-05,2:00 PM,1:0,Petrojet,Wadi Degla,Tue,1,0,HomeWin,2018-2019
+2018185,21,2019-02-07,3:00 PM,2:3,El Gouna,Entag El Harby,Thu,2,3,AwayWin,2018-2019
+2018186,21,2019-02-07,6:00 PM,0:0,El Makasa,Ismaily,Thu,0,0,Tie,2018-2019
+2018187,21,2019-02-08,5:00 PM,1:0,Ahly SC,Harras Hodoud,Fri,1,0,HomeWin,2018-2019
+2018188,21,2019-02-09,5:00 PM,0:1,Nogoom FC,Zamalek,Sat,0,1,AwayWin,2018-2019
+2018189,22,2019-02-10,5:00 PM,1:3,Wadi Degla,Ittihad Alex,Sun,1,3,AwayWin,2018-2019
+2018190,22,2019-02-14,1:30 PM,2:2,El Dakhlia,El Gouna,Thu,2,2,Tie,2018-2019
+2018191,22,2019-02-14,4:00 PM,2:0,El Masry,El Makasa,Thu,2,0,HomeWin,2018-2019
+2018192,22,2019-02-14,6:30 PM,4:0,Pyramids FC,Smouha,Thu,4,0,HomeWin,2018-2019
+2018193,22,2019-02-15,3:00 PM,2:2,Harras Hodoud,Petrojet,Fri,2,2,Tie,2018-2019
+2018194,22,2019-02-15,6:00 PM,2:0,El Mokawloon,Talaea El Gaish,Fri,2,0,HomeWin,2018-2019
+2018195,22,2019-02-16,3:00 PM,3:2,Ismaily,Nogoom FC,Sat,3,2,HomeWin,2018-2019
+2018196,22,2019-02-16,6:00 PM,0:1,Entag El Harby,Ahly SC,Sat,0,1,AwayWin,2018-2019
+2018197,22,2019-02-17,5:00 PM,2:1,Zamalek,Enppi SC,Sun,2,1,HomeWin,2018-2019
+2018198,23,2019-02-18,6:00 PM,2:1,El Makasa,Wadi Degla,Mon,2,1,HomeWin,2018-2019
+2018199,23,2019-02-19,3:00 PM,2:1,El Gouna,Pyramids FC,Tue,2,1,HomeWin,2018-2019
+2018200,23,2019-02-20,2:00 PM,1:2,Smouha,El Mokawloon,Wed,1,2,AwayWin,2018-2019
+2018201,23,2019-02-20,4:30 PM,2:2,Talaea El Gaish,Zamalek,Wed,2,2,Tie,2018-2019
+2018202,23,2019-02-20,7:00 PM,3:1,Ahly SC,El Dakhlia,Wed,3,1,HomeWin,2018-2019
+2018203,23,2019-02-21,2:00 PM,1:0,Petrojet,Entag El Harby,Thu,1,0,HomeWin,2018-2019
+2018204,23,2019-02-22,5:00 PM,0:1,Nogoom FC,El Masry,Fri,0,1,AwayWin,2018-2019
+2018205,23,2019-03-17,5:00 PM,1:1,Ittihad Alex,Harras Hodoud,Sun,1,1,Tie,2018-2019
+2018206,23,2019-03-29,6:00 PM,0:0,Enppi SC,Ismaily,Fri,0,0,Tie,2018-2019
+2018207,24,2019-02-22,2:00 PM,0:0,Harras Hodoud,El Makasa,Fri,0,0,Tie,2018-2019
+2018208,24,2019-02-24,3:00 PM,1:2,El Gouna,Ahly SC,Sun,1,2,AwayWin,2018-2019
+2018209,24,2019-02-24,6:00 PM,1:0,Pyramids FC,El Mokawloon,Sun,1,0,HomeWin,2018-2019
+2018210,24,2019-02-25,2:30 PM,0:2,El Dakhlia,Petrojet,Mon,0,2,AwayWin,2018-2019
+2018211,24,2019-02-26,2:00 PM,0:0,Ismaily,Talaea El Gaish,Tue,0,0,Tie,2018-2019
+2018212,24,2019-02-26,4:30 PM,3:1,El Masry,Enppi SC,Tue,3,1,HomeWin,2018-2019
+2018213,24,2019-02-26,7:00 PM,2:1,Wadi Degla,Nogoom FC,Tue,2,1,HomeWin,2018-2019
+2018214,24,2019-03-07,6:00 PM,2:4,Entag El Harby,Ittihad Alex,Thu,2,4,AwayWin,2018-2019
+2018215,24,2019-04-03,7:00 PM,1:0,Zamalek,Smouha,Wed,1,0,HomeWin,2018-2019
+2018216,25,2019-02-28,3:00 PM,2:1,El Gouna,Petrojet,Thu,2,1,HomeWin,2018-2019
+2018217,25,2019-03-02,2:00 PM,0:0,Nogoom FC,Harras Hodoud,Sat,0,0,Tie,2018-2019
+2018218,25,2019-03-02,4:30 PM,1:1,Ittihad Alex,El Dakhlia,Sat,1,1,Tie,2018-2019
+2018219,25,2019-03-03,3:00 PM,1:3,Entag El Harby,El Makasa,Sun,1,3,AwayWin,2018-2019
+2018220,25,2019-03-03,,0:1,Talaea El Gaish,El Masry,Sun,0,1,AwayWin,2018-2019
+2018221,25,2019-03-03,6:00 PM,1:2,Enppi SC,Wadi Degla,Sun,1,2,AwayWin,2018-2019
+2018222,25,2019-03-12,4:30 PM,0:1,Smouha,Ismaily,Tue,0,1,AwayWin,2018-2019
+2018223,25,2019-03-20,6:00 PM,2:2,El Mokawloon,Zamalek,Wed,2,2,Tie,2018-2019
+2018224,25,2019-04-18,8:00 PM,0:1,Ahly SC,Pyramids FC,Thu,0,1,AwayWin,2018-2019
+2018225,26,2019-03-04,6:00 PM,4:0,Ahly SC,Petrojet,Mon,4,0,HomeWin,2018-2019
+2018226,26,2019-03-11,2:00 PM,0:0,El Dakhlia,El Makasa,Mon,0,0,Tie,2018-2019
+2018227,26,2019-03-11,4:30 PM,0:0,Harras Hodoud,Enppi SC,Mon,0,0,Tie,2018-2019
+2018228,26,2019-03-11,7:00 PM,0:0,Wadi Degla,Talaea El Gaish,Mon,0,0,Tie,2018-2019
+2018229,26,2019-03-12,2:00 PM,1:2,El Gouna,Ittihad Alex,Tue,1,2,AwayWin,2018-2019
+2018230,26,2019-03-15,5:00 PM,1:1,Entag El Harby,Nogoom FC,Fri,1,1,Tie,2018-2019
+2018231,26,2019-03-16,5:00 PM,4:2,El Masry,Smouha,Sat,4,2,HomeWin,2018-2019
+2018232,26,2019-04-02,5:00 PM,2:0,Ismaily,El Mokawloon,Tue,2,0,HomeWin,2018-2019
+2018233,26,2019-04-23,8:00 PM,1:0,Pyramids FC,Zamalek,Tue,1,0,HomeWin,2018-2019
+2018234,27,2019-03-29,3:30 PM,2:2,El Mokawloon,El Masry,Fri,2,2,Tie,2018-2019
+2018235,27,2019-03-29,6:00 PM,2:3,Smouha,Wadi Degla,Fri,2,3,AwayWin,2018-2019
+2018236,27,2019-03-31,5:00 PM,1:1,Nogoom FC,El Dakhlia,Sun,1,1,Tie,2018-2019
+2018237,27,2019-03-31,7:30 PM,0:0,El Makasa,El Gouna,Sun,0,0,Tie,2018-2019
+2018238,27,2019-04-01,5:00 PM,3:0,Talaea El Gaish,Harras Hodoud,Mon,3,0,HomeWin,2018-2019
+2018239,27,2019-04-01,7:30 PM,0:2,Petrojet,Pyramids FC,Mon,0,2,AwayWin,2018-2019
+2018240,27,2019-04-02,5:00 PM,1:0,Enppi SC,Entag El Harby,Tue,1,0,HomeWin,2018-2019
+2018241,27,2019-04-02,7:30 PM,0:2,Ittihad Alex,Ahly SC,Tue,0,2,AwayWin,2018-2019
+2018242,27,2019-07-24,8:00 PM,3:1,Zamalek,Ismaily,Wed,3,1,HomeWin,2018-2019
+2018243,28,2019-04-06,3:00 PM,2:1,Entag El Harby,Talaea El Gaish,Sat,2,1,HomeWin,2018-2019
+2018244,28,2019-04-06,5:30 PM,1:1,El Gouna,Nogoom FC,Sat,1,1,Tie,2018-2019
+2018245,28,2019-04-06,,0:0,Wadi Degla,El Mokawloon,Sat,0,0,Tie,2018-2019
+2018246,28,2019-04-06,8:00 PM,3:1,Pyramids FC,Ismaily,Sat,3,1,HomeWin,2018-2019
+2018247,28,2019-04-07,5:30 PM,1:1,El Dakhlia,Enppi SC,Sun,1,1,Tie,2018-2019
+2018248,28,2019-04-07,,1:0,Petrojet,Ittihad Alex,Sun,1,0,HomeWin,2018-2019
+2018249,28,2019-04-07,8:00 PM,1:2,Harras Hodoud,Smouha,Sun,1,2,AwayWin,2018-2019
+2018250,28,2019-04-10,8:00 PM,2:1,Ahly SC,El Makasa,Wed,2,1,HomeWin,2018-2019
+2018251,28,2019-04-11,5:30 PM,2:1,El Masry,Zamalek,Thu,2,1,HomeWin,2018-2019
+2018252,29,2019-04-11,5:30 PM,2:1,Talaea El Gaish,El Dakhlia,Thu,2,1,HomeWin,2018-2019
+2018253,29,2019-04-11,8:00 PM,1:0,El Mokawloon,Harras Hodoud,Thu,1,0,HomeWin,2018-2019
+2018254,29,2019-04-11,,2:3,Ittihad Alex,Pyramids FC,Thu,2,3,AwayWin,2018-2019
+2018255,29,2019-04-12,5:30 PM,2:0,Smouha,Entag El Harby,Fri,2,0,HomeWin,2018-2019
+2018256,29,2019-04-14,5:30 PM,1:1,El Masry,Ismaily,Sun,1,1,Tie,2018-2019
+2018257,29,2019-04-15,5:30 PM,1:2,El Makasa,Petrojet,Mon,1,2,AwayWin,2018-2019
+2018258,29,2019-04-15,8:00 PM,4:0,Enppi SC,El Gouna,Mon,4,0,HomeWin,2018-2019
+2018259,29,2019-05-05,7:00 PM,0:2,Nogoom FC,Ahly SC,Sun,0,2,AwayWin,2018-2019
+2018260,29,2019-05-09,10:00 PM,2:1,Zamalek,Wadi Degla,Thu,2,1,HomeWin,2018-2019
+2018261,30,2019-04-19,5:30 PM,0:0,Ittihad Alex,El Makasa,Fri,0,0,Tie,2018-2019
+2018262,30,2019-04-19,,1:2,Entag El Harby,El Mokawloon,Fri,1,2,AwayWin,2018-2019
+2018263,30,2019-04-19,8:00 PM,2:0,El Gouna,Talaea El Gaish,Fri,2,0,HomeWin,2018-2019
+2018264,30,2019-04-19,,0:2,El Dakhlia,Smouha,Fri,0,2,AwayWin,2018-2019
+2018265,30,2019-04-20,5:30 PM,2:1,Petrojet,Nogoom FC,Sat,2,1,HomeWin,2018-2019
+2018266,30,2019-04-25,5:00 PM,3:0,Wadi Degla,Ismaily,Thu,3,0,HomeWin,2018-2019
+2018267,30,2019-05-05,5:30 PM,1:1,Pyramids FC,El Masry,Sun,1,1,Tie,2018-2019
+2018268,30,2019-05-16,10:00 PM,2:0,Ahly SC,Enppi SC,Thu,2,0,HomeWin,2018-2019
+2018269,30,2019-06-03,10:00 PM,1:1,Harras Hodoud,Zamalek,Mon,1,1,Tie,2018-2019
+2018270,31,2019-04-30,5:30 PM,1:2,Nogoom FC,Ittihad Alex,Tue,1,2,AwayWin,2018-2019
+2018271,31,2019-04-30,,0:1,Ismaily,Harras Hodoud,Tue,0,1,AwayWin,2018-2019
+2018272,31,2019-04-30,,0:0,Smouha,El Gouna,Tue,0,0,Tie,2018-2019
+2018273,31,2019-04-30,8:00 PM,1:1,El Makasa,Pyramids FC,Tue,1,1,Tie,2018-2019
+2018274,31,2019-04-30,,0:0,El Masry,Wadi Degla,Tue,0,0,Tie,2018-2019
+2018275,31,2019-05-01,4:30 PM,2:2,El Mokawloon,El Dakhlia,Wed,2,2,Tie,2018-2019
+2018276,31,2019-05-01,6:45 PM,1:2,Talaea El Gaish,Ahly SC,Wed,1,2,AwayWin,2018-2019
+2018277,31,2019-05-02,7:00 PM,2:1,Enppi SC,Petrojet,Thu,2,1,HomeWin,2018-2019
+2018278,31,2019-05-30,10:00 PM,1:1,Zamalek,Entag El Harby,Thu,1,1,Tie,2018-2019
+2018279,32,2019-05-10,10:00 PM,2:1,El Makasa,Nogoom FC,Fri,2,1,HomeWin,2018-2019
+2018280,32,2019-05-10,,0:1,Ittihad Alex,Enppi SC,Fri,0,1,AwayWin,2018-2019
+2018281,32,2019-05-10,,1:4,El Gouna,El Mokawloon,Fri,1,4,AwayWin,2018-2019
+2018282,32,2019-05-10,,0:0,Entag El Harby,Ismaily,Fri,0,0,Tie,2018-2019
+2018283,32,2019-05-10,,0:1,El Masry,Harras Hodoud,Fri,0,1,AwayWin,2018-2019
+2018284,32,2019-05-11,10:00 PM,0:1,Petrojet,Talaea El Gaish,Sat,0,1,AwayWin,2018-2019
+2018285,32,2019-05-11,,1:0,Ahly SC,Smouha,Sat,1,0,HomeWin,2018-2019
+2018286,32,2019-05-12,10:00 PM,1:2,El Dakhlia,Zamalek,Sun,1,2,AwayWin,2018-2019
+2018287,32,2019-05-14,10:00 PM,1:1,Pyramids FC,Wadi Degla,Tue,1,1,Tie,2018-2019
+2018288,33,2019-05-17,10:00 PM,2:0,Ismaily,El Dakhlia,Fri,2,0,HomeWin,2018-2019
+2018289,33,2019-05-21,10:00 PM,2:2,El Masry,Entag El Harby,Tue,2,2,Tie,2018-2019
+2018290,33,2019-05-21,,2:0,Smouha,Petrojet,Tue,2,0,HomeWin,2018-2019
+2018291,33,2019-05-21,,4:0,Talaea El Gaish,Ittihad Alex,Tue,4,0,HomeWin,2018-2019
+2018292,33,2019-05-21,,1:1,Wadi Degla,Harras Hodoud,Tue,1,1,Tie,2018-2019
+2018293,33,2019-05-21,,2:1,Enppi SC,El Makasa,Tue,2,1,HomeWin,2018-2019
+2018294,33,2019-05-22,10:00 PM,2:0,Pyramids FC,Nogoom FC,Wed,2,0,HomeWin,2018-2019
+2018295,33,2019-07-21,8:00 PM,2:2,El Gouna,Zamalek,Sun,2,2,Tie,2018-2019
+2018296,33,2019-07-24,8:00 PM,1:3,El Mokawloon,Ahly SC,Wed,1,3,AwayWin,2018-2019
+2018297,34,2019-05-27,10:00 PM,0:3,El Dakhlia,El Masry,Mon,0,3,AwayWin,2018-2019
+2018298,34,2019-05-27,,1:1,Nogoom FC,Enppi SC,Mon,1,1,Tie,2018-2019
+2018299,34,2019-05-27,,1:1,El Makasa,Talaea El Gaish,Mon,1,1,Tie,2018-2019
+2018300,34,2019-05-27,,0:0,El Gouna,Ismaily,Mon,0,0,Tie,2018-2019
+2018301,34,2019-05-30,10:00 PM,1:1,Harras Hodoud,Pyramids FC,Thu,1,1,Tie,2018-2019
+2018302,34,2019-06-03,10:00 PM,0:0,Petrojet,El Mokawloon,Mon,0,0,Tie,2018-2019
+2018303,34,2019-06-03,,1:2,Entag El Harby,Wadi Degla,Mon,1,2,AwayWin,2018-2019
+2018304,34,2019-06-03,,3:1,Ittihad Alex,Smouha,Mon,3,1,HomeWin,2018-2019
+2018305,34,2019-07-28,8:00 PM,1:0,Ahly SC,Zamalek,Sun,1,0,HomeWin,2018-2019

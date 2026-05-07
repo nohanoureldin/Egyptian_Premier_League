@@ -1,0 +1,154 @@
+match_id,Gameweek,Date,Time,Result,Home team,Away team,Day,HomeGoals,AwayGoals,Status,Season
+2024000,1,2024-10-30,3:00 PM,1:3,Harras Hodoud,Smouha,Wed,1,3,AwayWin,2024-2025
+2024001,1,2024-10-30,6:00 PM,0:2,Talaea El Gaish,El Masry,Wed,0,2,AwayWin,2024-2025
+2024002,1,2024-10-31,3:00 PM,0:0,El Gouna,Zed FC,Thu,0,0,Tie,2024-2025
+2024003,1,2024-10-31,6:00 PM,0:0,Modern Sport,Enppi SC,Thu,0,0,Tie,2024-2025
+2024004,1,2024-11-01,4:00 PM,0:1,Pharco FC,Ittihad Alex,Fri,0,1,AwayWin,2024-2025
+2024005,1,2024-11-01,,1:1,Pyramids FC,Petrojet,Fri,1,1,Tie,2024-2025
+2024006,1,2024-11-01,7:00 PM,3:2,Zamalek,Bank El Ahly,Fri,3,2,HomeWin,2024-2025
+2024007,1,2024-11-02,4:00 PM,0:0,Ismaily,El Mahalla,Sat,0,0,Tie,2024-2025
+2024008,1,2024-11-02,7:00 PM,5:2,Ahly SC,Cleopatra FC,Sat,5,2,HomeWin,2024-2025
+2024009,2,2024-11-07,4:00 PM,2:3,El Mahalla,Talaea El Gaish,Thu,2,3,AwayWin,2024-2025
+2024010,2,2024-11-07,,1:0,Ittihad Alex,Harras Hodoud,Thu,1,0,HomeWin,2024-2025
+2024011,2,2024-11-07,7:00 PM,0:1,Zed FC,Ahly SC,Thu,0,1,AwayWin,2024-2025
+2024012,2,2024-11-08,4:00 PM,0:2,Smouha,Zamalek,Fri,0,2,AwayWin,2024-2025
+2024013,2,2024-11-08,,1:1,Petrojet,Modern Sport,Fri,1,1,Tie,2024-2025
+2024014,2,2024-11-08,7:00 PM,1:2,Enppi SC,Pyramids FC,Fri,1,2,AwayWin,2024-2025
+2024015,2,2024-11-09,4:00 PM,0:0,Bank El Ahly,Pharco FC,Sat,0,0,Tie,2024-2025
+2024016,2,2024-11-09,,0:0,El Masry,El Gouna,Sat,0,0,Tie,2024-2025
+2024017,2,2024-11-09,7:00 PM,1:0,Cleopatra FC,Ismaily,Sat,1,0,HomeWin,2024-2025
+2024018,3,2024-11-22,4:00 PM,4:3,Pharco FC,Enppi SC,Fri,4,3,HomeWin,2024-2025
+2024019,3,2024-11-22,,3:1,Pyramids FC,Bank El Ahly,Fri,3,1,HomeWin,2024-2025
+2024020,3,2024-11-22,7:00 PM,1:1,Ahly SC,Ittihad Alex,Fri,1,1,Tie,2024-2025
+2024021,3,2024-11-23,4:00 PM,0:0,Talaea El Gaish,Smouha,Sat,0,0,Tie,2024-2025
+2024022,3,2024-11-23,,0:1,El Gouna,El Mahalla,Sat,0,1,AwayWin,2024-2025
+2024023,3,2024-11-23,7:00 PM,0:1,Zamalek,El Masry,Sat,0,1,AwayWin,2024-2025
+2024024,3,2024-11-24,4:00 PM,1:0,Ismaily,Petrojet,Sun,1,0,HomeWin,2024-2025
+2024025,3,2024-11-24,7:00 PM,0:0,Harras Hodoud,Cleopatra FC,Sun,0,0,Tie,2024-2025
+2024026,3,2024-11-24,,0:0,Modern Sport,Zed FC,Sun,0,0,Tie,2024-2025
+2024027,4,2024-11-30,4:00 PM,2:0,Zed FC,Harras Hodoud,Sat,2,0,HomeWin,2024-2025
+2024028,4,2024-11-30,,4:1,Cleopatra FC,Modern Sport,Sat,4,1,HomeWin,2024-2025
+2024029,4,2024-11-30,7:00 PM,0:1,Ittihad Alex,Talaea El Gaish,Sat,0,1,AwayWin,2024-2025
+2024030,4,2024-12-01,4:00 PM,0:0,Bank El Ahly,Ahly SC,Sun,0,0,Tie,2024-2025
+2024031,4,2024-12-01,7:00 PM,0:0,Smouha,El Gouna,Sun,0,0,Tie,2024-2025
+2024032,4,2024-12-01,,1:0,Enppi SC,Ismaily,Sun,1,0,HomeWin,2024-2025
+2024033,4,2024-12-02,4:00 PM,1:0,El Masry,Pyramids FC,Mon,1,0,HomeWin,2024-2025
+2024034,4,2024-12-02,,1:2,Petrojet,Pharco FC,Mon,1,2,AwayWin,2024-2025
+2024035,4,2024-12-02,7:00 PM,0:4,El Mahalla,Zamalek,Mon,0,4,AwayWin,2024-2025
+2024036,5,2024-12-19,4:00 PM,0:1,Talaea El Gaish,Petrojet,Thu,0,1,AwayWin,2024-2025
+2024037,5,2024-12-19,,0:0,Harras Hodoud,El Masry,Thu,0,0,Tie,2024-2025
+2024038,5,2024-12-19,7:00 PM,1:1,Zamalek,Cleopatra FC,Thu,1,1,Tie,2024-2025
+2024039,5,2024-12-20,4:00 PM,0:1,Modern Sport,Bank El Ahly,Fri,0,1,AwayWin,2024-2025
+2024040,5,2024-12-20,,1:0,El Gouna,Enppi SC,Fri,1,0,HomeWin,2024-2025
+2024041,5,2024-12-20,7:00 PM,1:2,Pharco FC,Zed FC,Fri,1,2,AwayWin,2024-2025
+2024042,5,2024-12-21,4:00 PM,0:0,El Mahalla,Ittihad Alex,Sat,0,0,Tie,2024-2025
+2024043,5,2024-12-21,7:00 PM,1:1,Ismaily,Pyramids FC,Sat,1,1,Tie,2024-2025
+2024044,5,2025-01-07,3:00 PM,2:0,Ahly SC,Smouha,Tue,2,0,HomeWin,2024-2025
+2024045,6,2024-12-24,4:00 PM,0:0,Zed FC,Enppi SC,Tue,0,0,Tie,2024-2025
+2024046,6,2024-12-24,7:00 PM,2:2,Talaea El Gaish,Zamalek,Tue,2,2,Tie,2024-2025
+2024047,6,2024-12-25,4:00 PM,0:0,Ittihad Alex,Modern Sport,Wed,0,0,Tie,2024-2025
+2024048,6,2024-12-25,,2:2,Ismaily,Harras Hodoud,Wed,2,2,Tie,2024-2025
+2024049,6,2024-12-25,7:00 PM,3:0,Pyramids FC,Pharco FC,Wed,3,0,HomeWin,2024-2025
+2024050,6,2024-12-26,4:00 PM,1:2,Bank El Ahly,Cleopatra FC,Thu,1,2,AwayWin,2024-2025
+2024051,6,2024-12-26,,2:4,Smouha,El Mahalla,Thu,2,4,AwayWin,2024-2025
+2024052,6,2024-12-26,7:00 PM,0:2,El Masry,Ahly SC,Thu,0,2,AwayWin,2024-2025
+2024053,6,2024-12-26,,1:0,Petrojet,El Gouna,Thu,1,0,HomeWin,2024-2025
+2024054,7,2024-12-29,4:00 PM,3:0,Harras Hodoud,Talaea El Gaish,Sun,3,0,HomeWin,2024-2025
+2024055,7,2024-12-29,7:00 PM,2:0,Zamalek,Ittihad Alex,Sun,2,0,HomeWin,2024-2025
+2024056,7,2024-12-30,4:00 PM,0:0,Enppi SC,Ahly SC,Mon,0,0,Tie,2024-2025
+2024057,7,2024-12-30,,0:1,El Gouna,Pyramids FC,Mon,0,1,AwayWin,2024-2025
+2024058,7,2024-12-30,7:00 PM,2:1,Pharco FC,Smouha,Mon,2,1,HomeWin,2024-2025
+2024059,7,2024-12-30,,1:1,Zed FC,Petrojet,Mon,1,1,Tie,2024-2025
+2024060,7,2024-12-31,2:00 PM,1:1,Cleopatra FC,El Masry,Tue,1,1,Tie,2024-2025
+2024061,7,2025-01-01,4:00 PM,0:3,Modern Sport,Ismaily,Wed,0,3,AwayWin,2024-2025
+2024062,7,2025-01-01,7:00 PM,0:1,El Mahalla,Bank El Ahly,Wed,0,1,AwayWin,2024-2025
+2024063,8,2025-01-10,4:00 PM,0:0,Petrojet,Enppi SC,Fri,0,0,Tie,2024-2025
+2024064,8,2025-01-10,6:00 PM,0:1,Talaea El Gaish,Cleopatra FC,Fri,0,1,AwayWin,2024-2025
+2024065,8,2025-01-11,4:00 PM,1:0,Bank El Ahly,Ismaily,Sat,1,0,HomeWin,2024-2025
+2024066,8,2025-01-11,7:00 PM,0:1,Ittihad Alex,Zed FC,Sat,0,1,AwayWin,2024-2025
+2024067,8,2025-01-12,4:00 PM,1:0,Smouha,Modern Sport,Sun,1,0,HomeWin,2024-2025
+2024068,8,2025-01-15,3:00 PM,3:0,Pyramids FC,El Mahalla,Wed,3,0,HomeWin,2024-2025
+2024069,8,2025-01-15,6:00 PM,2:0,Ahly SC,El Gouna,Wed,2,0,HomeWin,2024-2025
+2024070,8,2025-01-16,3:00 PM,3:2,Zamalek,Harras Hodoud,Thu,3,2,HomeWin,2024-2025
+2024071,8,2025-01-16,6:00 PM,1:0,El Masry,Pharco FC,Thu,1,0,HomeWin,2024-2025
+2024072,9,2025-01-21,3:00 PM,1:2,El Gouna,Bank El Ahly,Tue,1,2,AwayWin,2024-2025
+2024073,9,2025-01-21,,0:1,El Mahalla,Harras Hodoud,Tue,0,1,AwayWin,2024-2025
+2024074,9,2025-01-21,6:00 PM,0:1,Enppi SC,Talaea El Gaish,Tue,0,1,AwayWin,2024-2025
+2024075,9,2025-01-21,,1:0,Ismaily,Smouha,Tue,1,0,HomeWin,2024-2025
+2024076,9,2025-01-22,3:00 PM,1:1,Pharco FC,Ahly SC,Wed,1,1,Tie,2024-2025
+2024077,9,2025-01-22,6:00 PM,1:1,Cleopatra FC,Ittihad Alex,Wed,1,1,Tie,2024-2025
+2024078,9,2025-01-22,,0:1,Zed FC,Pyramids FC,Wed,0,1,AwayWin,2024-2025
+2024079,9,2025-01-23,3:00 PM,2:1,Petrojet,El Masry,Thu,2,1,HomeWin,2024-2025
+2024080,9,2025-01-23,6:00 PM,1:0,Modern Sport,Zamalek,Thu,1,0,HomeWin,2024-2025
+2024081,10,2025-01-26,3:00 PM,0:0,Talaea El Gaish,Pharco FC,Sun,0,0,Tie,2024-2025
+2024082,10,2025-01-26,,1:0,Ittihad Alex,Ismaily,Sun,1,0,HomeWin,2024-2025
+2024083,10,2025-01-26,6:00 PM,0:1,El Mahalla,Cleopatra FC,Sun,0,1,AwayWin,2024-2025
+2024084,10,2025-01-26,,2:2,Ahly SC,Pyramids FC,Sun,2,2,Tie,2024-2025
+2024085,10,2025-01-27,3:00 PM,4:1,Zamalek,El Gouna,Mon,4,1,HomeWin,2024-2025
+2024086,10,2025-01-27,6:00 PM,1:0,Harras Hodoud,Modern Sport,Mon,1,0,HomeWin,2024-2025
+2024087,10,2025-01-27,,2:1,El Masry,Enppi SC,Mon,2,1,HomeWin,2024-2025
+2024088,10,2025-01-28,3:00 PM,0:2,Bank El Ahly,Petrojet,Tue,0,2,AwayWin,2024-2025
+2024089,10,2025-01-28,6:00 PM,2:1,Smouha,Zed FC,Tue,2,1,HomeWin,2024-2025
+2024090,11,2025-01-31,3:00 PM,1:2,Ismaily,Talaea El Gaish,Fri,1,2,AwayWin,2024-2025
+2024091,11,2025-01-31,,0:1,El Gouna,Harras Hodoud,Fri,0,1,AwayWin,2024-2025
+2024092,11,2025-01-31,6:00 PM,3:0,Pyramids FC,Zamalek,Fri,3,0,HomeWin,2024-2025
+2024093,11,2025-02-01,3:00 PM,0:1,Enppi SC,Bank El Ahly,Sat,0,1,AwayWin,2024-2025
+2024094,11,2025-02-01,,1:1,Zed FC,El Masry,Sat,1,1,Tie,2024-2025
+2024095,11,2025-02-01,6:00 PM,3:2,Pharco FC,El Mahalla,Sat,3,2,HomeWin,2024-2025
+2024096,11,2025-02-01,,0:0,Petrojet,Ittihad Alex,Sat,0,0,Tie,2024-2025
+2024097,11,2025-02-02,3:00 PM,0:1,Cleopatra FC,Smouha,Sun,0,1,AwayWin,2024-2025
+2024098,11,2025-02-02,6:00 PM,1:3,Modern Sport,Ahly SC,Sun,1,3,AwayWin,2024-2025
+2024099,12,2025-02-06,3:00 PM,2:1,El Mahalla,Modern Sport,Thu,2,1,HomeWin,2024-2025
+2024100,12,2025-02-06,,1:2,Cleopatra FC,Pharco FC,Thu,1,2,AwayWin,2024-2025
+2024101,12,2025-02-06,6:00 PM,2:1,Ahly SC,Petrojet,Thu,2,1,HomeWin,2024-2025
+2024102,12,2025-02-07,3:00 PM,0:1,Smouha,Pyramids FC,Fri,0,1,AwayWin,2024-2025
+2024103,12,2025-02-07,,1:0,Harras Hodoud,Enppi SC,Fri,1,0,HomeWin,2024-2025
+2024104,12,2025-02-07,6:00 PM,0:0,Talaea El Gaish,El Gouna,Fri,0,0,Tie,2024-2025
+2024105,12,2025-02-07,,2:0,Zamalek,Ismaily,Fri,2,0,HomeWin,2024-2025
+2024106,12,2025-02-08,3:00 PM,1:2,Ittihad Alex,El Masry,Sat,1,2,AwayWin,2024-2025
+2024107,12,2025-02-08,6:00 PM,1:1,Bank El Ahly,Zed FC,Sat,1,1,Tie,2024-2025
+2024108,13,2025-02-11,3:00 PM,0:1,Pharco FC,Zamalek,Tue,0,1,AwayWin,2024-2025
+2024109,13,2025-02-11,,0:1,Petrojet,Smouha,Tue,0,1,AwayWin,2024-2025
+2024110,13,2025-02-11,6:00 PM,1:0,Ahly SC,El Mahalla,Tue,1,0,HomeWin,2024-2025
+2024111,13,2025-02-12,3:00 PM,1:1,Zed FC,Cleopatra FC,Wed,1,1,Tie,2024-2025
+2024112,13,2025-02-12,,2:0,El Gouna,Ismaily,Wed,2,0,HomeWin,2024-2025
+2024113,13,2025-02-12,6:00 PM,0:0,El Masry,Bank El Ahly,Wed,0,0,Tie,2024-2025
+2024114,13,2025-02-12,,3:0,Pyramids FC,Harras Hodoud,Wed,3,0,HomeWin,2024-2025
+2024115,13,2025-02-13,3:00 PM,0:0,Modern Sport,Talaea El Gaish,Thu,0,0,Tie,2024-2025
+2024116,13,2025-02-13,6:00 PM,1:1,Enppi SC,Ittihad Alex,Thu,1,1,Tie,2024-2025
+2024117,14,2025-02-16,3:00 PM,1:1,Zamalek,Petrojet,Sun,1,1,Tie,2024-2025
+2024118,14,2025-02-16,,1:4,Smouha,Bank El Ahly,Sun,1,4,AwayWin,2024-2025
+2024119,14,2025-02-16,5:30 PM,2:0,Harras Hodoud,Pharco FC,Sun,2,0,HomeWin,2024-2025
+2024120,14,2025-02-16,6:00 PM,0:4,Ismaily,Ahly SC,Sun,0,4,AwayWin,2024-2025
+2024121,14,2025-02-17,3:00 PM,2:2,Cleopatra FC,Enppi SC,Mon,2,2,Tie,2024-2025
+2024122,14,2025-02-17,6:00 PM,1:0,Ittihad Alex,El Gouna,Mon,1,0,HomeWin,2024-2025
+2024123,14,2025-02-17,,0:1,Modern Sport,Pyramids FC,Mon,0,1,AwayWin,2024-2025
+2024124,14,2025-02-18,3:00 PM,1:0,Talaea El Gaish,Zed FC,Tue,1,0,HomeWin,2024-2025
+2024125,14,2025-02-18,6:00 PM,1:0,El Mahalla,El Masry,Tue,1,0,HomeWin,2024-2025
+2024126,15,2025-02-21,3:00 PM,1:0,Enppi SC,Smouha,Fri,1,0,HomeWin,2024-2025
+2024127,15,2025-02-21,,0:0,Pharco FC,Modern Sport,Fri,0,0,Tie,2024-2025
+2024128,15,2025-02-21,6:00 PM,2:2,Petrojet,Harras Hodoud,Fri,2,2,Tie,2024-2025
+2024129,15,2025-02-21,,3:2,Bank El Ahly,Ittihad Alex,Fri,3,2,HomeWin,2024-2025
+2024130,15,2025-02-22,3:00 PM,0:0,El Masry,Ismaily,Sat,0,0,Tie,2024-2025
+2024131,15,2025-02-22,,2:0,El Gouna,Cleopatra FC,Sat,2,0,HomeWin,2024-2025
+2024132,15,2025-02-22,6:00 PM,1:1,Ahly SC,Zamalek,Sat,1,1,Tie,2024-2025
+2024133,15,2025-02-23,3:00 PM,2:0,Zed FC,El Mahalla,Sun,2,0,HomeWin,2024-2025
+2024134,15,2025-02-23,6:00 PM,2:1,Pyramids FC,Talaea El Gaish,Sun,2,1,HomeWin,2024-2025
+2024135,16,2025-02-26,3:00 PM,2:3,Modern Sport,El Gouna,Wed,2,3,AwayWin,2024-2025
+2024136,16,2025-02-26,,0:1,Harras Hodoud,Ahly SC,Wed,0,1,AwayWin,2024-2025
+2024137,16,2025-02-26,6:00 PM,0:2,Ismaily,Pharco FC,Wed,0,2,AwayWin,2024-2025
+2024138,16,2025-02-27,3:00 PM,0:3,Smouha,El Masry,Thu,0,3,AwayWin,2024-2025
+2024139,16,2025-02-27,6:00 PM,2:2,Talaea El Gaish,Bank El Ahly,Thu,2,2,Tie,2024-2025
+2024140,16,2025-02-27,,1:1,Zamalek,Zed FC,Thu,1,1,Tie,2024-2025
+2024141,16,2025-02-28,3:00 PM,3:0,El Mahalla,Enppi SC,Fri,3,0,HomeWin,2024-2025
+2024142,16,2025-02-28,6:00 PM,4:1,Cleopatra FC,Petrojet,Fri,4,1,HomeWin,2024-2025
+2024143,16,2025-02-28,,1:3,Ittihad Alex,Pyramids FC,Fri,1,3,AwayWin,2024-2025
+2024144,17,2025-03-03,8:00 PM,2:1,Bank El Ahly,Harras Hodoud,Mon,2,1,HomeWin,2024-2025
+2024145,17,2025-03-03,,0:0,Pharco FC,El Gouna,Mon,0,0,Tie,2024-2025
+2024146,17,2025-03-03,,4:2,El Masry,Modern Sport,Mon,4,2,HomeWin,2024-2025
+2024147,17,2025-03-04,8:00 PM,0:3,Enppi SC,Zamalek,Tue,0,3,AwayWin,2024-2025
+2024148,17,2025-03-04,,2:2,Zed FC,Ismaily,Tue,2,2,Tie,2024-2025
+2024149,17,2025-03-04,,0:1,Ittihad Alex,Smouha,Tue,0,1,AwayWin,2024-2025
+2024150,17,2025-03-05,8:00 PM,2:0,Ahly SC,Talaea El Gaish,Wed,2,0,HomeWin,2024-2025
+2024151,17,2025-03-05,,2:1,Petrojet,El Mahalla,Wed,2,1,HomeWin,2024-2025
+2024152,17,2025-03-05,,2:1,Pyramids FC,Cleopatra FC,Wed,2,1,HomeWin,2024-2025
