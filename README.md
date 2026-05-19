@@ -97,8 +97,8 @@ This project automates the complete lifecycle of Egyptian football data:
 │                 │     │  └─────────┘  └─────────┘  │  Ready) ││     │                 │
 └─────────────────┘     │                          └─────────┘│     └─────────────────┘
                           │                                         │
-                          │  Galaxy Schema (Fact Constellation)     │
-                          │  • 2 Fact Tables + 5 Dimension Tables │
+                          │  Star Schema                            │
+                          │  • 1 Fact Table + 5 Dimension Tables    │
                           └─────────────────────────────────────────┘
 ```
 
@@ -156,37 +156,32 @@ Analytics-ready dimensional and fact tables for BI tools and reporting.
 - `dim_stadium` — Stadium dimension (27 stadiums)
 
 **Facts (Event/Measure Tables):**
-- `fact_matches` — Match-level facts (2,907 rows): scores, status, derby flags
-- `fact_goals` — Goal-level facts (6,635 rows): scorers, assists, types, minutes
+- `fact_matches` — Match-level facts (2,907 rows): scores, status, derby flags, goal aggregations
 
-**Schema Type: Galaxy Schema (Fact Constellation)**
-- Two fact tables at different grains (match-level vs goal-level)
-- Both facts share the same dimensions
-- Standard DWH pattern for multi-grain analytics
+**Schema Type: Star Schema**
+- One central fact table surrounded by dimension tables
+- All dimensions connect directly to the fact table
+- Optimized for query performance and simplicity
 
 ---
 
 ## Dimensional Data Model
 
-### Galaxy Schema Diagram
+### Star Schema Diagram
 
 ```
-                    dim_date (1,303)
-                          │
-                          │
-    dim_team (35) ────────┼─────── fact_matches (2,907) ─────── dim_referee (138)
-         │                │              │                        │
-         │                │              │                        │
-         │                │              │                        │
-         └────────────────┼──────────────┘                        │
-                          │                                       │
-                    dim_season (10)                               │
-                          │                                       │
-                          │                                       │
-                          └────────── fact_goals (6,635) ─────────┘
-                                          │
-                                          │
-                                       dim_team (35)
+                         dim_date (1,303)
+                              │
+                              │
+    dim_team (35) ────────────┼─────────── fact_matches (2,907)
+                              │                │
+                              │                │
+                              │                │
+                         dim_season (10)      dim_referee (138)
+                              │                │
+                              │                │
+                              │                │
+                         dim_stadium (27)
 ```
 
 ### Key Dimensions
@@ -203,13 +198,19 @@ Analytics-ready dimensional and fact tables for BI tools and reporting.
 
 | Fact Table | Grain | Key Measures | Rows |
 |-----------|-------|--------------|------|
-| **fact_matches** | One row per match | home_goals, away_goals, total_goals, goal_diff, is_derby | 2,907 |
-| **fact_goals** | One row per goal | scorer_name, assist_player, goal_type, minute, is_penalty, is_OG | 6,635 |
+| **fact_matches** | One row per match | home_goals, away_goals, total_goals, goal_diff, match_status, is_derby | 2,907 |
 
 ### Role-Playing Dimension
 - `dim_team` is referenced **twice** in `fact_matches`:
   - `home_team_sk` → dim_team (active relationship)
   - `away_team_sk` → dim_team (inactive, handled via DAX)
+
+### Goal Data Handling
+- Goal-level details (6,635 goals) are **aggregated within the fact table** via:
+  - `total_goals` — sum of home + away goals per match
+  - `home_goals` — goals scored by home team
+  - `away_goals` — goals scored by away team
+- Player-level goal analysis (top scorers, assisters) is handled in Power BI via DAX measures querying the goals CSV directly or through calculated tables
 
 ---
 
@@ -261,6 +262,7 @@ Analytics-ready dimensional and fact tables for BI tools and reporting.
 | `minute` | Integer | Minute goal was scored |
 
 **Rows**: 6,635 (one per goal)
+- **Note**: Goal data is used for Power BI calculated tables and DAX measures, not as a separate fact table in the Star Schema
 
 #### `referee_stadium_final.csv` — Match Officials & Venues
 | Column | Type | Description |
@@ -326,7 +328,7 @@ Egyptian-Premier-League-Analytics/
 ├── 📂 docs/
 │   ├── architecture_diagram.png       # 7-step pipeline diagram
 │   ├── medallion_architecture.png     # Bronze-Silver-Gold layers
-│   ├── schema_diagram.drawio          # Galaxy Schema diagram
+│   ├── star_schema_diagram.drawio     # Star Schema diagram
 │   └── data_dictionary.md             # Full column documentation
 │
 └── 📂 notebooks/                      # Jupyter notebooks for EDA
@@ -420,7 +422,6 @@ CREATE TABLE SILVER.RESULTS AS SELECT * FROM RAW.RESULTS;
 -- Build Gold layer (dimensions and facts)
 CREATE TABLE WAREHOUSE.DIM_TEAM AS ...;
 CREATE TABLE WAREHOUSE.FACT_MATCHES AS ...;
-CREATE TABLE WAREHOUSE.FACT_GOALS AS ...;
 ```
 
 ### Open Power BI Dashboard
@@ -464,9 +465,8 @@ Gold Layer — Dimensions First:
   10. dim_referee
   11. dim_stadium
 
-Gold Layer — Facts Last:
-  12. fact_matches (references dimensions)
-  13. fact_goals (references dimensions + fact_matches)
+Gold Layer — Fact Last:
+  12. fact_matches (references all dimensions)
 ```
 
 ---
@@ -482,7 +482,7 @@ Gold Layer — Facts Last:
 ### Data Characteristics
 - **Coverage**: 10 seasons (2015–2016 to 2024–2025)
 - **Matches**: 2,907
-- **Goals**: 6,635
+- **Goals**: 6,635 (aggregated within fact_matches via total_goals, home_goals, away_goals)
 - **Teams**: 35 unique teams
 - **Referees**: 138 unique referees
 - **Stadiums**: 27 unique stadiums
@@ -573,8 +573,8 @@ The project implements multiple data quality checks:
 ### Power BI Issues
 
 **Problem**: "Ambiguous paths between tables"
-- **Cause**: Multiple relationship paths between fact_goals and dim_team
-- **Solution**: Delete direct FACT_GOALS → DIM_TEAM relationship; use path through FACT_MATCHES
+- **Cause**: Multiple relationship paths between fact_matches and dim_team
+- **Solution**: Keep only one active relationship (home_team_sk); handle away_team via DAX USERELATIONSHIP()
 
 **Problem**: "FORMAT() measure breaks charts"
 - **Cause**: FORMAT() returns text, not number
@@ -615,8 +615,8 @@ Shows: Data sources → Extract → Transform → Staging → Load → Bronze �
 ### 2. Medallion Architecture Diagram
 Shows: Bronze (RAW) → Silver (Cleaned) → Gold (Dimensions + Facts)
 
-### 3. Galaxy Schema Diagram
-Shows: fact_matches and fact_goals sharing dim_team, dim_season, dim_date, dim_referee, dim_stadium
+### 3. Star Schema Diagram
+Shows: fact_matches in center with dim_team, dim_season, dim_date, dim_referee, dim_stadium surrounding it
 
 ### 4. Pipeline Execution Flow
 Shows: Sequential ETL steps with load order and dependencies
