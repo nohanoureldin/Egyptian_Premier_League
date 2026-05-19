@@ -637,5 +637,5 @@ Shows: Top stadiums, top referees, venue distribution
 
 <p align="center">
   <b>Built with 💚 for Egyptian Football</b><br>
-  <sub>ITI Data Engineering Track · Graduation Project · 2025</sub>
+  <sub>ITI Data Engineering Track · Graduation Project · 2026</sub>
 </p>
